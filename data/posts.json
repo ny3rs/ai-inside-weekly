@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "date": "2025-08-18",
+      "subject": "Weekly: Inside Organizations, AI Becomes the Default (but Governance Lags)",
+      "intro": "A fast read on how companies are weaving AI into day\u2011to\u2011day operations \u2014 what changed this week, where value shows up, and what to watch.",
+      "items": [
+        {
+          "headline": "Workers accept AI as a teammate, balk at an AI boss",
+          "summary": "New survey reporting high comfort collaborating with AI but far less appetite for AI \u2018managers\u2019 underscores the need for human\u2011in\u2011the\u2011loop design.",
+          "url": "https://www.itpro.com/technology/artificial-intelligence/workers-view-agents-as-important-teammates-but-the-prospect-of-an-ai-boss-is-a-step-too-far"
+        },
+        {
+          "headline": "Carlyle\u2019s playbook: 90%+ employee AI use after structured rollout",
+          "summary": "Private equity giant details councils, training, and workflow picks\u2014cutting research cycles from weeks to hours while preserving human oversight.",
+          "url": "https://www.businessinsider.com/carlyle-group-lucia-soares-technology-chief-ai-playbook-jobs-chatgpt-2025-7"
+        },
+        {
+          "headline": "Execs push: \u2018Use AI daily\u2014or risk falling behind\u2019",
+          "summary": "Leadership pressure grows as firms formalize expectations for AI\u2011augmented work; culture and enablement decide whether this helps or harms.",
+          "url": "https://www.theaustralian.com.au/business/technology/airwallex-staff-must-use-ai-daily-or-risk-their-job-warns-boss-jack-zhang/news-story/803dd622a83f158735b735c3fa769e43"
+        },
+        {
+          "headline": "AI takes aim at IT busywork",
+          "summary": "Vendors roll out automation for ticket handling, device lifecycle and incident summaries\u2014early adopters report quicker MTTR and lower toil.",
+          "url": "https://www.wsj.com/articles/it-departments-are-overloaded-with-busy-work-can-ai-change-that-19a9f667"
+        },
+        {
+          "headline": "Shadow AI swells\u2014governance must catch up",
+          "summary": "Unauthorized tool use is widespread; companies respond with policies, audits, and secure approved stacks to reduce leakage and compliance risk.",
+          "url": "https://www.techradar.com/pro/tackling-shadow-ai-how-uk-businesses-can-mitigate-the-risks"
+        }
+      ],
+      "metrics": [
+        "McKinsey (2025): ~78% of orgs use AI in at least one function; ~71% use gen\u2011AI somewhere.",
+        "Work Trend Index (2025): ~29% of leaders save \u22651 hour/day with AI; workforce split on \u2018tool vs. partner\u2019.",
+        "Private AI investment (2024): ~$250B+ total, continuing to rise into 2025 (various indices)."
+      ],
+      "takeaway": "Impact tracks workflow redesign, not tool count. Formalize governance, train for new \u2018AI teammate\u2019 norms, and measure time\u2011to\u2011value on a few high\u2011leverage processes first."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AI Inside: Weekly Roundup</title>
+  <meta name="description" content="Curated weekly news on how companies implement AI in internal processes." />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <header class="container">
+    <h1>AI Inside: Weekly Roundup</h1>
+    <p class="tagline">News & stats on enterprise/internal AI adoption — updated weekly.</p>
+  </header>
+
+  <main class="container">
+    <section id="latest"></section>
+    <section id="archive">
+      <h2>Archive</h2>
+      <div id="posts"></div>
+    </section>
+  </main>
+
+  <footer class="container">
+    <p>Made for operators. Open-source on GitHub. Auto-updates weekly via GitHub Actions.</p>
+  </footer>
+
+  <script>
+    async function loadPosts() {
+      const res = await fetch('data/posts.json?_=' + Date.now());
+      const data = await res.json();
+      const latest = data.posts[0];
+      const latestEl = document.getElementById('latest');
+
+      latestEl.innerHTML = `
+        <article class="card">
+          <div class="meta"><span>${latest.date}</span> • <span>${latest.subject}</span></div>
+          <h2>${latest.subject}</h2>
+          <p>${latest.intro}</p>
+
+          <ul class="items">
+            ${latest.items.map(i => `
+              <li>
+                <a href="${i.url}" target="_blank" rel="noopener">${i.headline}</a>
+                <p>${i.summary}</p>
+              </li>
+            `).join('')}
+          </ul>
+
+          <div class="metrics">
+            <h3>Fresh metrics</h3>
+            <ul>
+              ${latest.metrics.map(m => `<li>${m}</li>`).join('')}
+            </ul>
+          </div>
+
+          <div class="takeaway">
+            <h3>What it means</h3>
+            <p>${latest.takeaway}</p>
+          </div>
+        </article>
+      `;
+
+      const postsWrap = document.getElementById('posts');
+      postsWrap.innerHTML = data.posts.slice(1).map(p => `
+        <article class="card">
+          <div class="meta"><span>${p.date}</span> • <span>${p.subject}</span></div>
+          <h3>${p.subject}</h3>
+          <p>${p.intro}</p>
+          <ul class="items">
+            ${p.items.map(i => `
+              <li>
+                <a href="${i.url}" target="_blank" rel="noopener">${i.headline}</a>
+                <p>${i.summary}</p>
+              </li>
+            `).join('')}
+          </ul>
+        </article>
+      `).join('');
+    }
+
+    loadPosts();
+  </script>
+</body>
+</html>

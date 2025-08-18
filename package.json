@@ -1,0 +1,12 @@
+{
+  "name": "ai-inside-weekly",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static site + weekly auto-update for AI-internal adoption news",
+  "scripts": {
+    "update": "node scripts/update.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  }
+}
