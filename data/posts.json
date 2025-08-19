@@ -1,42 +1,85 @@
 {
   "posts": [
     {
+      "date": "2025-08-19",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "US spy chief claims UK backed down over Apple backdoor demand",
+          "summary": "US spy chief claims UK backed down over Apple backdoor demand",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2025/08/19/uk_apple_backdoor_uturn/"
+        },
+        {
+          "headline": "SoftBank held talks with Intel on buying contract chipmaking business",
+          "summary": "Japanese group’s approach comes as US manufacturer struggles to attract customers and compete with rival TSMC",
+          "url": "https://www.ft.com/content/c4f59a54-7503-4463-828b-414d2d89c85f"
+        },
+        {
+          "headline": " Why Britain's £187M skills investment needs to work for everyone, not just students ",
+          "summary": "Why introducing AI and cybersecurity concepts early is critical to building a future-ready workforce.",
+          "url": "https://www.techradar.com/pro/why-britains-gbp187m-skills-investment-needs-to-work-for-everyone-not-just-students"
+        },
+        {
+          "headline": " The path to European data sovereignty ",
+          "summary": "Who really controls data, and under whose law does it fall?",
+          "url": "https://www.techradar.com/pro/the-path-to-european-data-sovereignty"
+        },
+        {
+          "headline": " The AI Triple Threat: mitigating the dangers of AI adoption with identity security ",
+          "summary": "As AI reshapes both attacks and defenses, identity security becomes the frontline of cyber resilience.",
+          "url": "https://www.techradar.com/pro/the-ai-triple-threat-mitigating-the-dangers-of-ai-adoption-with-identity-security"
+        },
+        {
+          "headline": " AI’s invisible labor is tech’s biggest blind spot ",
+          "summary": "Behind every smart AI model is an exploited human workforce and a growing crisis that enterprises can’t ignore.",
+          "url": "https://www.techradar.com/pro/ais-invisible-labor-is-techs-biggest-blind-spot"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2025-08-18",
       "subject": "Weekly: Inside Organizations, AI Becomes the Default (but Governance Lags)",
-      "intro": "A fast read on how companies are weaving AI into day\u2011to\u2011day operations \u2014 what changed this week, where value shows up, and what to watch.",
+      "intro": "A fast read on how companies are weaving AI into day‑to‑day operations — what changed this week, where value shows up, and what to watch.",
       "items": [
         {
           "headline": "Workers accept AI as a teammate, balk at an AI boss",
-          "summary": "New survey reporting high comfort collaborating with AI but far less appetite for AI \u2018managers\u2019 underscores the need for human\u2011in\u2011the\u2011loop design.",
+          "summary": "New survey reporting high comfort collaborating with AI but far less appetite for AI ‘managers’ underscores the need for human‑in‑the‑loop design.",
           "url": "https://www.itpro.com/technology/artificial-intelligence/workers-view-agents-as-important-teammates-but-the-prospect-of-an-ai-boss-is-a-step-too-far"
         },
         {
-          "headline": "Carlyle\u2019s playbook: 90%+ employee AI use after structured rollout",
-          "summary": "Private equity giant details councils, training, and workflow picks\u2014cutting research cycles from weeks to hours while preserving human oversight.",
+          "headline": "Carlyle’s playbook: 90%+ employee AI use after structured rollout",
+          "summary": "Private equity giant details councils, training, and workflow picks—cutting research cycles from weeks to hours while preserving human oversight.",
           "url": "https://www.businessinsider.com/carlyle-group-lucia-soares-technology-chief-ai-playbook-jobs-chatgpt-2025-7"
         },
         {
-          "headline": "Execs push: \u2018Use AI daily\u2014or risk falling behind\u2019",
-          "summary": "Leadership pressure grows as firms formalize expectations for AI\u2011augmented work; culture and enablement decide whether this helps or harms.",
+          "headline": "Execs push: ‘Use AI daily—or risk falling behind’",
+          "summary": "Leadership pressure grows as firms formalize expectations for AI‑augmented work; culture and enablement decide whether this helps or harms.",
           "url": "https://www.theaustralian.com.au/business/technology/airwallex-staff-must-use-ai-daily-or-risk-their-job-warns-boss-jack-zhang/news-story/803dd622a83f158735b735c3fa769e43"
         },
         {
           "headline": "AI takes aim at IT busywork",
-          "summary": "Vendors roll out automation for ticket handling, device lifecycle and incident summaries\u2014early adopters report quicker MTTR and lower toil.",
+          "summary": "Vendors roll out automation for ticket handling, device lifecycle and incident summaries—early adopters report quicker MTTR and lower toil.",
           "url": "https://www.wsj.com/articles/it-departments-are-overloaded-with-busy-work-can-ai-change-that-19a9f667"
         },
         {
-          "headline": "Shadow AI swells\u2014governance must catch up",
+          "headline": "Shadow AI swells—governance must catch up",
           "summary": "Unauthorized tool use is widespread; companies respond with policies, audits, and secure approved stacks to reduce leakage and compliance risk.",
           "url": "https://www.techradar.com/pro/tackling-shadow-ai-how-uk-businesses-can-mitigate-the-risks"
         }
       ],
       "metrics": [
-        "McKinsey (2025): ~78% of orgs use AI in at least one function; ~71% use gen\u2011AI somewhere.",
-        "Work Trend Index (2025): ~29% of leaders save \u22651 hour/day with AI; workforce split on \u2018tool vs. partner\u2019.",
+        "McKinsey (2025): ~78% of orgs use AI in at least one function; ~71% use gen‑AI somewhere.",
+        "Work Trend Index (2025): ~29% of leaders save ≥1 hour/day with AI; workforce split on ‘tool vs. partner’.",
         "Private AI investment (2024): ~$250B+ total, continuing to rise into 2025 (various indices)."
       ],
-      "takeaway": "Impact tracks workflow redesign, not tool count. Formalize governance, train for new \u2018AI teammate\u2019 norms, and measure time\u2011to\u2011value on a few high\u2011leverage processes first."
+      "takeaway": "Impact tracks workflow redesign, not tool count. Formalize governance, train for new ‘AI teammate’ norms, and measure time‑to‑value on a few high‑leverage processes first."
     }
   ]
 }
