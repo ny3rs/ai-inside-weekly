@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2025-08-25",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": " Cyber moves from back office to boardroom – and investors are paying attention ",
+          "summary": "As cyber threats intensify and regulators tighten scrutiny, boardrooms rethink strategies, and investors follow closely.",
+          "url": "https://www.techradar.com/pro/cyber-moves-from-back-office-to-boardroom-and-investors-are-paying-attention"
+        },
+        {
+          "headline": " Solving the hyper-personalized AI privacy dilemma ",
+          "summary": "Unlike standard automation, hyper-personalized AI works by learning from individual user behaviors.",
+          "url": "https://www.techradar.com/pro/solving-the-hyper-personalized-ai-privacy-dilemma"
+        },
+        {
+          "headline": "Mysterious X-37B spaceplane flies again, this time carrying a quantum GPS alternative",
+          "summary": "Mysterious X-37B spaceplane flies again, this time carrying a quantum GPS alternative",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2025/08/25/x37b_quantum_navigation_payload/"
+        },
+        {
+          "headline": "How SoftBank’s Son became Trump’s favoured foreign investor",
+          "summary": "Japanese billionaire’s deal for OpenAI and Intel came after careful courting of US president",
+          "url": "https://www.ft.com/content/4008c2ed-0be3-4c06-baf5-3c54be5e1e2e"
+        },
+        {
+          "headline": "Data centre developers explore linking up to UK gas pipelines",
+          "summary": "Official enquiries about grid connections suggest need for speedy energy access will support fossil fuel use",
+          "url": "https://www.ft.com/content/75407616-1328-4ab8-9d81-a9dc18de920d"
+        },
+        {
+          "headline": "Venture capital steps up ‘Iron Dome’ air defence investments",
+          "summary": "Russian drone attacks against Ukraine highlight the need to bolster air defence capabilities",
+          "url": "https://www.ft.com/content/f948d0c3-f94d-4c13-9c99-81b0c6287672"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2025-08-19",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
