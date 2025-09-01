@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2025-09-01",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Traffic to government domains often crosses national borders, or flows through risky bottlenecks",
+          "summary": "Traffic to government domains often crosses national borders, or flows through risky bottlenecks",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2025/09/01/isoc_government_domain_traffic_measurement/"
+        },
+        {
+          "headline": "US chipmaking curbs hit Samsung and SK Hynix",
+          "summary": "Shares fall after Washington revokes waivers that let South Korean groups send equipment to China without a licence",
+          "url": "https://www.ft.com/content/fd77488c-d5f3-4677-ba90-cc7e8de74333"
+        },
+        {
+          "headline": "Saudi-backed Savvy Games seeks multibillion-dollar China deals  ",
+          "summary": "US-China trade tensions provide opportunity as kingdom seeks tech and gaming investments",
+          "url": "https://www.ft.com/content/c1123ba6-76d7-4c1e-8a4e-aa98fa697f41"
+        },
+        {
+          "headline": "Oracle billionaire’s institute gives Oxford major grant for AI vaccine research",
+          "summary": "Money will fund pioneering UK trial that uses artificial intelligence to map the immune system",
+          "url": "https://www.ft.com/content/e21af386-2171-4d2d-a4a6-9d52761261ff"
+        },
+        {
+          "headline": "Why AI won’t take my job ",
+          "summary": "The technology is no match for felt experience in the real world",
+          "url": "https://www.ft.com/content/0b56a85d-e71e-49c4-802f-316ed83cb386"
+        },
+        {
+          "headline": "China launches new ‘AI+’ policy to ‘deepen information technology revolution’",
+          "summary": "China launches new ‘AI+’ policy to ‘deepen information technology revolution’",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2025/09/01/asia_tech_news_in_brief/"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2025-08-25",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
