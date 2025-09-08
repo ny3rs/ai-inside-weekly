@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2025-09-08",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Anthropic to pay at least $1.5 billion to authors whose work it knowingly pirated",
+          "summary": "Anthropic to pay at least $1.5 billion to authors whose work it knowingly pirated",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2025/09/08/anthropic_settles_author_lawsuit/"
+        },
+        {
+          "headline": "Europe’s defence tech start-ups attract investment surge",
+          "summary": "Russia’s war in Ukraine and fears over US security relationship drive wave of VC funding",
+          "url": "https://www.ft.com/content/a194942b-93ff-49a0-8aa9-02460055748e"
+        },
+        {
+          "headline": "All IT work to involve AI by 2030, says Gartner, but jobs are safe",
+          "summary": "All IT work to involve AI by 2030, says Gartner, but jobs are safe",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2025/09/08/ai_impact_it_departments/"
+        },
+        {
+          "headline": "The ‘invisible kingpin of data centres’ riding the Gulf’s AI boom",
+          "summary": "Dubai-based Zachary Cefaratti has become a go-to dealmaker who connects Middle Eastern money to Silicon Valley",
+          "url": "https://www.ft.com/content/3145e08c-9316-4d52-846e-25700402aa16"
+        },
+        {
+          "headline": " Quick! Tell me what you're most excited to see at the Apple event on September 9 ",
+          "summary": "Apple is set to showcase a lot of products on September 9, but which one has you most hyped? Let me know.",
+          "url": "https://www.techradar.com/phones/iphone/quick-tell-me-what-youre-most-excited-to-see-at-the-apple-event-on-september-9"
+        },
+        {
+          "headline": "Snake eating tail: Google’s AI Overviews cites web pages written by AI, study says",
+          "summary": "Snake eating tail: Google’s AI Overviews cites web pages written by AI, study says",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2025/09/07/googles_ai_cites_written_by_ai/"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2025-09-01",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
