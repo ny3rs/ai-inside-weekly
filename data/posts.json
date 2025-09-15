@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2025-09-15",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": " Why simulation, not automation, will define the future of business AI ",
+          "summary": "We are entering a new era of decision-making.",
+          "url": "https://www.techradar.com/pro/why-simulation-not-automation-will-define-the-future-of-business-ai"
+        },
+        {
+          "headline": "After deleting a web server, I started checking what I typed before hitting 'Enter'",
+          "summary": "After deleting a web server, I started checking what I typed before hitting 'Enter'",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2025/09/15/who_me/"
+        },
+        {
+          "headline": "Open source Cloud Hypervisor adds (maybe futile) no-AI-code policy",
+          "summary": "Open source Cloud Hypervisor adds (maybe futile) no-AI-code policy",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2025/09/15/cloud_hypervisor_no_ai_policy/"
+        },
+        {
+          "headline": "UK fintech SumUp explores listing at up to $15bn valuation",
+          "summary": "Card reader company wants to raise cash to buy up competitors",
+          "url": "https://www.ft.com/content/cac3e013-617b-4ffe-87ec-2ef577d22a2e"
+        },
+        {
+          "headline": "Shipping industry enlists AI to tackle rising number of cargo fires",
+          "summary": "Failure to declare dangerous goods and ever bigger ships mean fires are more common and harder to put out",
+          "url": "https://www.ft.com/content/8e9c70f1-af80-4e9b-8171-59b1ad54aaf6"
+        },
+        {
+          "headline": "How a former junior lawyer created a $5bn AI legal start-up",
+          "summary": "Winston Weinberg’s company is making lawyers ‘a lot more productive’, but critics say it offers little more than ChatGPT",
+          "url": "https://www.ft.com/content/49d00498-9a15-4d26-b10c-938bd7e893c6"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2025-09-08",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
