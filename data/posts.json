@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2025-09-22",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "FTAV Q&A: Srikanth Jagabathula",
+          "summary": "An NYU professor talks about how AI now breezes through CFA Level III exams, and what it might mean for your job",
+          "url": "https://www.ft.com/content/ba4eeacc-8b6f-4acc-b3ac-3f2764d3cec7"
+        },
+        {
+          "headline": " How AI augmentation is revolutionizing penetration testing in cybersecurity ",
+          "summary": "Why quick fixes and flashy tools aren’t enough and why a strategic, continuous approach to security is essential to protect against AI-driven threats.",
+          "url": "https://www.techradar.com/pro/how-ai-augmentation-is-revolutionizing-penetration-testing-in-cybersecurity"
+        },
+        {
+          "headline": "Trump says Michael Dell is part of the team buying TikTok, with Larry Ellison and maybe some Murdochs",
+          "summary": "Trump says Michael Dell is part of the team buying TikTok, with Larry Ellison and maybe some Murdochs",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2025/09/22/dell_tiktok_acquisition_interest/"
+        },
+        {
+          "headline": "Indian IT shares fall over fears from Trump’s H-1B visa fee rise",
+          "summary": "US plan for $100,000 application charge threatens $283bn technological services industry",
+          "url": "https://www.ft.com/content/cdb95bc1-84c0-45a2-81f5-738b778453fd"
+        },
+        {
+          "headline": "The Sidemen management group secures funding for global expansion",
+          "summary": "Company behind hugely popular British YouTuber collective takes US investment in latest sign of shifting media landscape",
+          "url": "https://www.ft.com/content/9e7e3955-dd9e-4e0f-b22c-fca01a480485"
+        },
+        {
+          "headline": "Hackers target supply chains’ weak links in growing threat to companies",
+          "summary": "Number of cyber attacks on third-party suppliers doubled in 2024 as multibillion-dollar ransomware sector booms",
+          "url": "https://www.ft.com/content/dd59b848-67c2-4622-a1e4-555b77196197"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2025-09-15",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
