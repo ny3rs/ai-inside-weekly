@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2025-09-29",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Intern had no idea what not to do, so nearly mangled a mainframe",
+          "summary": "Intern had no idea what not to do, so nearly mangled a mainframe",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2025/09/29/who_me/"
+        },
+        {
+          "headline": "There’s serious money to be made from cyber hacking",
+          "summary": "A behind-the-scenes look at the work of Rutherford Hall, critical communications strategist",
+          "url": "https://www.ft.com/content/4f23d0b0-508a-4834-9331-5adcdea377be"
+        },
+        {
+          "headline": "Advisers claim HMRC ‘smoke and mirrors’ over use of AI to assess R&D tax claims",
+          "summary": "Individual caseworkers’ use of new technology raises questions about tax authority’s denials",
+          "url": "https://www.ft.com/content/2f094269-ceaa-4cca-bb9c-343c3575eeea"
+        },
+        {
+          "headline": "Brush up your morning routine with one of these magic gadgets ",
+          "summary": "Tech to make getting out of bed a little easier",
+          "url": "https://www.ft.com/content/047d20fe-b901-4c3d-a1eb-6ff1091d9285"
+        },
+        {
+          "headline": "AI groups bet on world models in race for ‘superintelligence’",
+          "summary": "Google DeepMind, Meta and Nvidia are developing systems that aim to better understand the physical world",
+          "url": "https://www.ft.com/content/ae1c6de2-691e-448d-8bf3-8837cc1e6efb"
+        },
+        {
+          "headline": "The graduate 'jobpocalypse':  Where have all the entry-level jobs gone?",
+          "summary": "The promise of AI’s workplace abilities amid economic uncertainties have caused many companies to take pause",
+          "url": "https://www.ft.com/video/03f66445-658f-48d4-b0c3-15bc5f0e2f87"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2025-09-22",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
