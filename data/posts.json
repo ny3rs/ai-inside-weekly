@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2025-10-06",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Techie found an error message so rude the CEO of IBM apologized for it",
+          "summary": "Techie found an error message so rude the CEO of IBM apologized for it",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/who_me/"
+        },
+        {
+          "headline": "America is now one big bet on AI",
+          "summary": "It’s seen as the magic fix for every threat to the US economy",
+          "url": "https://www.ft.com/content/6cc87bd9-cb2f-4f82-99c5-c38748986a2e"
+        },
+        {
+          "headline": "European private capital firms target €17bn in data centre deals",
+          "summary": "Oaktree Capital, Partners Group and EQT among those seeking to cash in on AI boom",
+          "url": "https://www.ft.com/content/48a39d2c-f5ac-470e-b2ac-93cdc5eb4be7"
+        },
+        {
+          "headline": "Europe cannot rely on Elon Musk’s SpaceX, top investor warns",
+          "summary": "Revolut backer Balderton Capital says continent needs to accelerate development of space and defence industry",
+          "url": "https://www.ft.com/content/ebd8ac78-e0b7-438e-bdd1-83c223aab870"
+        },
+        {
+          "headline": "How next-gen solar panels could go on lampposts, cars and even windows   ",
+          "summary": "Perovskite panels are more powerful, lighter and less rigid than traditional alternatives",
+          "url": "https://www.ft.com/content/a5095373-1762-41cd-a078-af533e2644fc"
+        },
+        {
+          "headline": "Building owners face up to growing cyber threat",
+          "summary": "Connected devices make property management much easier, but they bring their own risks",
+          "url": "https://www.ft.com/content/16a98b06-4f50-4fb7-abca-4cee7d73569f"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2025-09-29",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
