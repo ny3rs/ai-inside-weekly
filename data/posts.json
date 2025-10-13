@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2025-10-13",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "The AI trade: do geopolitics matter?",
+          "summary": "Plus, scepticism on the dealmaking rebound",
+          "url": "https://www.ft.com/content/45866e90-008d-41b7-b71f-61892d401700"
+        },
+        {
+          "headline": "Regulating military use of AI is in everyone’s interest",
+          "summary": "Blanket prohibitions won’t work — but all states should agree on best practices for ethical and legal compliance",
+          "url": "https://www.ft.com/content/c8dbfb26-1c89-4e28-b728-d2c39725a87d"
+        },
+        {
+          "headline": "Russia pays Europe’s saboteurs in crypto, says Polish official",
+          "summary": "Warsaw’s national security chief says Moscow is also using a shadow fleet to launch drones into European airspace",
+          "url": "https://www.ft.com/content/21579555-bf32-4b22-930d-79387bfe8817"
+        },
+        {
+          "headline": "Don’t worry, this is the good kind of disaster",
+          "summary": "A behind-the-scenes look at the work of Rutherford Hall, critical communications strategist",
+          "url": "https://www.ft.com/content/5639afe0-89e1-4d47-a72d-5a4155d907de"
+        },
+        {
+          "headline": "Who owns OpenAI? Blockbuster deals complicate investor payouts",
+          "summary": "Microsoft, OpenAI’s staff and non-profit arm are due close to 90% of start-up. But Nvidia deal will dilute shareholders",
+          "url": "https://www.ft.com/content/61ab5bc8-a125-4246-9761-80473028a99e"
+        },
+        {
+          "headline": "How mega batteries are unlocking an energy revolution",
+          "summary": "Vast battery units are shoring up grids and extending the use of clean power",
+          "url": "https://ig.ft.com/mega-batteries/"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2025-10-06",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
