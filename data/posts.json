@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2025-10-20",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Company that made power systems for servers didn’t know why its own machines ran out of juice",
+          "summary": "Company that made power systems for servers didn’t know why its own machines ran out of juice",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/who_me/"
+        },
+        {
+          "headline": "UK brain monitoring start-up goes from teenage idea to $100mn funding",
+          "summary": "London-based CoMind is aiming to start selling its medical device in 2027",
+          "url": "https://www.ft.com/content/1f41a613-c97a-4725-8715-5dd3090f5287"
+        },
+        {
+          "headline": "Apple’s biggest iPhone overhaul in years ignites upgrade frenzy",
+          "summary": "Extended wait times and generous trade-in deals signal surging demand for newly redesigned device",
+          "url": "https://www.ft.com/content/be3f6853-286b-4296-9cef-fd0a9da624f8"
+        },
+        {
+          "headline": "AI is killing the magic ",
+          "summary": "Not knowing whether art originated in someone’s heart or a data centre is a major enjoyment-killer",
+          "url": "https://www.ft.com/content/d003cdfc-aded-4a9d-9a24-e1aff5261cfa"
+        },
+        {
+          "headline": "How endangered craft industries are resisting the AI jobs threat",
+          "summary": "From scissor making to basket weaving, some professionals think ancient skills look like a safe career bet",
+          "url": "https://www.ft.com/content/16657487-0716-4dc8-8394-389a9bcef60c"
+        },
+        {
+          "headline": "The teacher is the new engineer: Inside the rise of AI enablement and PromptOps",
+          "summary": "As more companies quickly begin using gen AI, it’s important to avoid a big mistake that could impact its effectiveness: Proper onboarding.…",
+          "url": "https://venturebeat.com/ai/the-teacher-is-the-new-engineer-inside-the-rise-of-ai-enablement-and"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2025-10-13",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
