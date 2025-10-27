@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2025-10-27",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Automattic accuses rival WordPress outfit WP Engine of ‘false advertising, and deceptive business practices’",
+          "summary": "Automattic accuses rival WordPress outfit WP Engine of ‘false advertising, and deceptive business practices’",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/automattic_wp_engine_counterclaim/"
+        },
+        {
+          "headline": "The AI rollout is here - and it’s messy | FT Working It",
+          "summary": "Businesses are spending hundreds of billions of dollars on AI for the workplace. But getting employees to use the tools to their full potential is a huge task.",
+          "url": "https://www.ft.com/content/0434c905-dc57-460c-8cbe-de0c7b713ca4"
+        },
+        {
+          "headline": "Home tech to soup up your dinner – and your security",
+          "summary": "A multi-menu robochef and other domestic helpers",
+          "url": "https://www.ft.com/content/2e6fede1-c1a1-4cf8-8e94-4401d608f156"
+        },
+        {
+          "headline": "JPMorgan offers staff AI chatbot to help write performance reviews",
+          "summary": "Move allows employees to use bank’s large language model to generate reviews from their own prompts",
+          "url": "https://www.ft.com/content/84308936-e277-4ae0-b384-502d60375456"
+        },
+        {
+          "headline": "The AI rollout is here - and it's messy | FT Working It",
+          "summary": "Businesses are spending hundreds of billions of dollars on AI for the workplace. But getting employees to use the tools to their full potential is a huge task.",
+          "url": "https://www.ft.com/video/521c05bc-b5ac-4d0e-9acf-dbb106691b9f"
+        },
+        {
+          "headline": "UN Cybercrime Treaty wins dozens of signatories, to go with its many critics",
+          "summary": "UN Cybercrime Treaty wins dozens of signatories, to go with its many critics",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/un_cybercrime_convention_signed/"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2025-10-20",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
