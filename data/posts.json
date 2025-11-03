@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2025-11-03",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Lay-offs and AI",
+          "summary": "Bad news, OK data",
+          "url": "https://www.ft.com/content/2402d659-9bcf-4036-9593-ec69fc9c45ba"
+        },
+        {
+          "headline": "Investors need to look beyond the ‘bragawatts’ in AI infrastructure boom ",
+          "summary": "As investment rush accelerates, the winners will control inputs unlikely to be commoditised",
+          "url": "https://www.ft.com/content/bf687d99-f373-4a41-8651-fca9dba83aa0"
+        },
+        {
+          "headline": "ISPs more likely to throttle netizens who connect through carrier-grade NAT: Cloudflare",
+          "summary": "ISPs more likely to throttle netizens who connect through carrier-grade NAT: Cloudflare",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/cloudflare_cgnat_bias_research/"
+        },
+        {
+          "headline": "Pearson chief: ‘The majority of kids are not supported sufficiently’",
+          "summary": "Omar Abbosh argues technology can be transformative in education, but only if it enhances the human touch",
+          "url": "https://www.ft.com/content/749312b3-5339-41d8-85b0-22a8b1fc7ab1"
+        },
+        {
+          "headline": "White House says China to lift rare earth export bans, stop probes into US tech companies",
+          "summary": "White House says China to lift rare earth export bans, stop probes into US tech companies",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/asia_tech_news_roundup/"
+        },
+        {
+          "headline": "Attackers targeting unpatched Cisco kit notice malware implant removal, install it again",
+          "summary": "Attackers targeting unpatched Cisco kit notice malware implant removal, install it again",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/02/cyber_exec_pleads_guilty_to/"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2025-10-27",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
