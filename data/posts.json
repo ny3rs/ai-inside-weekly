@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2025-11-10",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Cisco creating new security model using 30 years of data describing cyber-dramas and saves",
+          "summary": "Cisco creating new security model using 30 years of data describing cyber-dramas and saves",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/cisco_new_17bn_parameter_model/"
+        },
+        {
+          "headline": "UK cyber insurance claims tripled in 2024, says trade body",
+          "summary": "Companies paid out £197mn, according to the Association of British Insurers, prior to a string of high-profile attacks",
+          "url": "https://www.ft.com/content/1624a504-0076-4c15-839a-7cb7f7bd04b5"
+        },
+        {
+          "headline": "Robinhood wants to allow amateur traders to invest in AI start-ups",
+          "summary": "CEO Vlad Tenev plans to offer shares in a fund that holds a handful of private artificial intelligence companies",
+          "url": "https://www.ft.com/content/72783021-f778-4d6d-80b3-f91d8c7ae364"
+        },
+        {
+          "headline": "From AI to ROI: some positive evidence",
+          "summary": "Research shows implementation of the technology can help to increase revenue in the real economy",
+          "url": "https://www.ft.com/content/0439c98f-158a-4667-9bbe-2ef86e0ef670"
+        },
+        {
+          "headline": "Europe’s defence start-ups struggle for credit despite looser bank policies",
+          "summary": "HSBC and Revolut among lenders restricting lending to sector in a sign of hurdles to rebuilding region’s arms industry",
+          "url": "https://www.ft.com/content/1860f4b3-fda1-4320-8f55-0791acf5bd05"
+        },
+        {
+          "headline": "‘People like dealing with people’: Reed boss on the challenge of AI in hiring",
+          "summary": "Technology offers new tools for recruiters but threatens to take jobs, says James Reed",
+          "url": "https://www.ft.com/content/dd90036e-6f78-49fd-8f14-20fd80bf675d"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2025-11-03",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
