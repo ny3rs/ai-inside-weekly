@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2025-11-17",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "How to hide from a bubble",
+          "summary": "It ain’t easy",
+          "url": "https://www.ft.com/content/bf06e291-44b6-4116-8319-a98e35d7cd48"
+        },
+        {
+          "headline": "UK cyber ransom ban risks collapse of essential services",
+          "summary": "Companies and security groups warn government’s proposed measure is unlikely to stop hacking attacks",
+          "url": "https://www.ft.com/content/3dc82018-2d3a-444e-8400-07d4c27a7665"
+        },
+        {
+          "headline": "Logitech leaks data after zero-day attack",
+          "summary": "Logitech leaks data after zero-day attack",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/16/infosec_news_in_brief/"
+        },
+        {
+          "headline": "Nvidia-backed photonics startup Ayar Labs eyes hyperscale customers with GUC design collab",
+          "summary": "Nvidia-backed photonics startup Ayar Labs eyes hyperscale customers with GUC design collab",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/16/ayar_guc_collab/"
+        },
+        {
+          "headline": "From shiny object to sober reality: The vector database story, two years later",
+          "summary": "When I first wrote “Vector databases: Shiny object syndrome and the case of a missing unicorn” in March 2024, the industry was awash in hype.…",
+          "url": "https://venturebeat.com/ai/from-shiny-object-to-sober-reality-the-vector-database-story-two-years-later"
+        },
+        {
+          "headline": " Nvidia's new AI app could be the productivity tool you've always needed - \"Hyperlink\" agent brings private AI-powered search for your PC ",
+          "summary": "Hyperlink uses local AI acceleration to deliver private, lightning-fast file searches powered by LLM reasoning and contextual understanding.",
+          "url": "https://www.techradar.com/pro/nvidias-new-ai-app-could-be-the-productivity-tool-youve-always-needed-hyperlink-agent-brings-private-ai-powered-search-for-your-pc"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2025-11-10",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
