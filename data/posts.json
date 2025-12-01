@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2025-12-01",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Aviation delays ease as airlines complete Airbus software rollback",
+          "summary": "Aviation delays ease as airlines complete Airbus software rollback",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/01/a320_software_rollback/"
+        },
+        {
+          "headline": "HSBC signs deal to use Mistral’s AI tools",
+          "summary": "Bank will use technology for tasks, including translation and document analysis",
+          "url": "https://www.ft.com/content/7b8e4ea8-ae17-4ada-9117-9f859589ce1d"
+        },
+        {
+          "headline": "Black Forest Labs: one-year-old German start-up challenges AI giants",
+          "summary": "Low-profile group has quickly emerged as a top developer of image generation technology",
+          "url": "https://www.ft.com/content/1acae2af-c0da-4be3-9cd9-af6120d1f7aa"
+        },
+        {
+          "headline": "Top consultancies freeze starting salaries as AI threatens ‘pyramid’ model",
+          "summary": "Productivity gains from technology are spurring debate about reliance on large numbers of junior advisers",
+          "url": "https://www.ft.com/content/2b15601b-8d02-4abe-a789-7862874042be"
+        },
+        {
+          "headline": "Learning to lead in a world of spiralling complexity  ",
+          "summary": "Recent research offers lessons in how to manage amid increasing complications",
+          "url": "https://www.ft.com/content/b4344217-6a89-4fd4-bf9b-3e06f15f6707"
+        },
+        {
+          "headline": "The AI skills employers want — and what business schools teach",
+          "summary": "Companies have different needs, so how are schools tackling the topic and what should students look for?",
+          "url": "https://www.ft.com/content/68abc2d4-5f13-43f2-a62d-a811da483bd4"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2025-11-17",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
