@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2025-12-08",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "FTAV’s further reading",
+          "summary": "Persuasive AI; how to choose your nemesis; theories of inflation; Bluesky; the lord of Russian drones",
+          "url": "https://www.ft.com/content/a2c285b5-62c2-4823-80e0-acb3a4edccdd"
+        },
+        {
+          "headline": "Airwallex plots Silicon Valley expansion after securing $8bn valuation",
+          "summary": "Payments company opens San Francisco base and reduces Tencent’s holding in US pivot",
+          "url": "https://www.ft.com/content/925815f6-d1d7-46c4-862d-da39acc712a2"
+        },
+        {
+          "headline": "The power crunch threatening America’s AI ambitions",
+          "summary": "A lack of electricity for new data centres could deflate the AI ‘bubble’",
+          "url": "https://ig.ft.com/ai-power/"
+        },
+        {
+          "headline": "Whistleblowing in the UK, Ep. 1: The cost of speaking up",
+          "summary": "Two whistleblowers explain why they spoke up, and what it cost them.",
+          "url": "https://www.ft.com/content/6ccf1208-8389-4e5b-a69d-c06e87ca896b"
+        },
+        {
+          "headline": "Block all AI browsers for the foreseeable future: Gartner",
+          "summary": "Block all AI browsers for the foreseeable future: Gartner",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/"
+        },
+        {
+          "headline": "I’m honoured and humbled to be bragging to you today",
+          "summary": "A behind-the-scenes look at the work of Rutherford Hall, critical communications strategist",
+          "url": "https://www.ft.com/content/300e6d79-b2ff-4516-8adf-6fe5058b5579"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2025-12-01",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
