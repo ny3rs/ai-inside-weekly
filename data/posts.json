@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2025-12-29",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Diamonds are powering a new quantum revolution",
+          "summary": "By inserting tiny imperfections into the stones, scientists open up possibilities in computing, encryption and sensors",
+          "url": "https://www.ft.com/content/0b309cd2-aa74-428e-b37b-067665ef17ea"
+        },
+        {
+          "headline": "The AI boom is not a bubble",
+          "summary": "Valuations may be spectacular and a bust could come — but while there’s exuberance there is no mania or irrationality",
+          "url": "https://www.ft.com/content/f2294add-f53a-4112-b284-29843a023b6f"
+        },
+        {
+          "headline": "The rise of the side hustle",
+          "summary": "Economists and tax collectors might be underestimating its impact",
+          "url": "https://www.ft.com/content/799fa043-407a-498b-a22d-ae677f514216"
+        },
+        {
+          "headline": "Saudi Arabia goes after critics of rising cost of living",
+          "summary": "Wave of arrests and fines are in apparent response to online anger over reforms to social security benefits",
+          "url": "https://www.ft.com/content/e8e27671-b208-4eff-b16e-90a301914274"
+        },
+        {
+          "headline": "The blue-collar jobs revival: The skills the world needs now | FT Working It",
+          "summary": "The massive investments being made in infrastructure, particularly for the digital future, have created a huge demand for skilled tradespeople",
+          "url": "https://www.ft.com/video/c65e9aec-9aa9-420a-be65-49e9126b76fb"
+        },
+        {
+          "headline": "Accused data thief threw MacBook into a river to destroy evidence",
+          "summary": "Accused data thief threw MacBook into a river to destroy evidence",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/29/coupang_perpetrator_theft_details/"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2025-12-08",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
