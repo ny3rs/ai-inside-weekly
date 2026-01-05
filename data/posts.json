@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-01-05",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Techie turned the tables on office bullies with remote access rumble",
+          "summary": "Techie turned the tables on office bullies with remote access rumble",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/05/who_me/"
+        },
+        {
+          "headline": "The US is losing its battle to break up Big Tech",
+          "summary": "Antitrust enforcers suffer setbacks in huge monopoly cases as judges prove reluctant to carve up businesses",
+          "url": "https://www.ft.com/content/869aae15-4c37-48a6-9a8b-d80b5d40db6a"
+        },
+        {
+          "headline": "The AI debt boom does not augur well for investors",
+          "summary": "The surge in investment may end up looking more like previous cycles of over-optimism and heavy capital spending",
+          "url": "https://www.ft.com/content/d36f3392-9a73-476a-9357-8ff311bb04da"
+        },
+        {
+          "headline": "AI start-ups take on Google in fight to reshape web browser market",
+          "summary": "OpenAI and Perplexity are betting cutting-edge technology will transform the way people access the internet",
+          "url": "https://www.ft.com/content/5d566029-6aee-4627-a665-81108a1eb70e"
+        },
+        {
+          "headline": "Trump admin sends heart emoji to commercial spyware makers with lifted Predator sanctions",
+          "summary": "Trump admin sends heart emoji to commercial spyware makers with lifted Predator sanctions",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/04/trump_admin_lifts_sanctions_predator_spyware_execs/"
+        },
+        {
+          "headline": "Twitter and Pinterest founders launch app as antidote to social media",
+          "summary": "Biz Stone and Evan Sharp raise new funds for ‘Tangle’ as they assess the ‘devastation’ caused by online excess",
+          "url": "https://www.ft.com/content/6a33af09-99a3-49c2-be50-4cc47656903f"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2025-12-29",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
