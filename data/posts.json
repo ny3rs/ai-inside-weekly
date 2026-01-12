@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-01-12",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Cloudflare CEO threatens to make the Winter Olympics a political football after Italy slugs it with a fine",
+          "summary": "Cloudflare CEO threatens to make the Winter Olympics a political football after Italy slugs it with a fine",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/cloudflare_vs_italy/"
+        },
+        {
+          "headline": "Tiny satellites take Glasgow to the stars",
+          "summary": "Scotland’s space industry has become a leader in manufacturing the small modular units",
+          "url": "https://www.ft.com/content/2332ea18-65cd-409f-b0b9-61ddd77b6d4a"
+        },
+        {
+          "headline": "The risky bet by AI start-ups",
+          "summary": "Broader, integrated software platforms for business will win out against those selling specific services",
+          "url": "https://www.ft.com/content/748a8ede-d388-4fa1-8d56-613eca386cbc"
+        },
+        {
+          "headline": "An analogue native’s guide to digital success",
+          "summary": "If employers want AI to transform work, they should pay attention to history’s technological flops",
+          "url": "https://www.ft.com/content/0ac3fd16-bd45-4451-bb6c-64e5047408e3"
+        },
+        {
+          "headline": "India’s government denies it plans to demand smartphone source code",
+          "summary": "India’s government denies it plans to demand smartphone source code",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/india_mobile_security/"
+        },
+        {
+          "headline": "Malaysia and Indonesia block X over failure to curb deepfake smut",
+          "summary": "Malaysia and Indonesia block X over failure to curb deepfake smut",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/asia_tech_news_roundup/"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-01-05",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
