@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-01-19",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Hiring at India’s Big Four outsourcers stalls, as AI seemingly makes an impact",
+          "summary": "Hiring at India’s Big Four outsourcers stalls, as AI seemingly makes an impact",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/hcl_infosys_tcs_wipro_results/"
+        },
+        {
+          "headline": "Europe’s AI ambitions are running into a markets plumbing problem",
+          "summary": "The region lacks the depth of long-dated investment capital needed to fund required energy infrastructure",
+          "url": "https://www.ft.com/content/45b39cea-c931-4fe7-b173-c5d64d94ed19"
+        },
+        {
+          "headline": "AI’s impact on jobs is set to become more pronounced",
+          "summary": "Concerns that the plight of recent graduates will worsen are growing",
+          "url": "https://www.ft.com/content/267037e8-a71f-4025-acca-f441fe712212"
+        },
+        {
+          "headline": "Microsoft hiring energy strategists to power its Asian datacenters",
+          "summary": "Microsoft hiring energy strategists to power its Asian datacenters",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/asia_tech_news_roundup/"
+        },
+        {
+          "headline": " Passwords are still a problem for UK businesses - what next? ",
+          "summary": "The challenge for British security leaders is no longer whether NCSC guidance on credential management is sound, but how to operationalize it effectively.",
+          "url": "https://www.techradar.com/pro/passwords-are-still-a-problem-for-uk-businesses-what-next"
+        },
+        {
+          "headline": "Nvidia leans on emulation to squeeze more HPC oomph from AI chips in race against AMD",
+          "summary": "Nvidia leans on emulation to squeeze more HPC oomph from AI chips in race against AMD",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/18/nvidia_fp64_emulation/"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-01-12",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
