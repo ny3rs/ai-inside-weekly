@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-01-26",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "The quant shop — AI lab convergence",
+          "summary": "Alpha 🤜 🤛 AGI",
+          "url": "https://www.ft.com/content/18313a5f-ae6e-44e9-a26a-4a81cd3190bf"
+        },
+        {
+          "headline": "Rheinmetall in talks over Starlink-style service for German army",
+          "summary": "Tank producer negotiating with satellite company OHB over bid for slice of country’s €35bn military space budget",
+          "url": "https://www.ft.com/content/3e81f272-a1d1-4424-8890-ccc7e364a6d3"
+        },
+        {
+          "headline": "AI productivity is about to become visible and investable",
+          "summary": "Stock market’s biggest winners may come from unexpected places",
+          "url": "https://www.ft.com/content/f156b453-44bf-4b90-bd5e-6d353f76530b"
+        },
+        {
+          "headline": "Why people still matter in the AI era",
+          "summary": "As population decline accelerates, the big risk is labour shortages, not mass unemployment",
+          "url": "https://www.ft.com/content/6cfe1c0a-03e7-4d77-929a-521fb556ac39"
+        },
+        {
+          "headline": " What ‘vibe coding’ means for API platforms and the future of DevRel ",
+          "summary": "As AI agents code alongside humans, API platforms and DevRel must redesign for machine-first consumption.",
+          "url": "https://www.techradar.com/pro/what-vibe-coding-means-for-api-platforms-and-the-future-of-devrel"
+        },
+        {
+          "headline": "Memory stocks soar as investors hunt for new AI winners",
+          "summary": "‘Insatiable’ demand and supply bottlenecks drive rally in once-unglamorous sector",
+          "url": "https://www.ft.com/content/0a8743a8-a23e-4d93-aba9-b9d533310adc"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-01-19",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
