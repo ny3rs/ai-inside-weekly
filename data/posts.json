@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-02-02",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Capgemini to sell the biz that works for US government amid criticism of ICE contract",
+          "summary": "Capgemini to sell the biz that works for US government amid criticism of ICE contract",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/capgemini_divests_us_federal_entity_cgs/"
+        },
+        {
+          "headline": "FTAV’s further reading",
+          "summary": "Maths shenanigans; OpenAI shenanigans; spy sheikh shenanigans; Epstein shenanigans",
+          "url": "https://www.ft.com/content/270606a6-5a04-4aa8-af3a-1af12e331144"
+        },
+        {
+          "headline": "Oracle predicts investors poised to pump $50 billion into its cloud this year alone",
+          "summary": "Oracle predicts investors poised to pump $50 billion into its cloud this year alone",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/oracle_cloud_expansion_investment_plan/"
+        },
+        {
+          "headline": "Open-source AI is a global security nightmare waiting to happen, say researchers",
+          "summary": "Open-source AI is a global security nightmare waiting to happen, say researchers",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/01/opensource_ai_is_a_global/"
+        },
+        {
+          "headline": " SpaceX has applied to launch another million satellites into orbit – all to power AI ",
+          "summary": "SpaceX wants to use a satellite network to ease the pressure on current data centers placed on terra firma.",
+          "url": "https://www.techradar.com/computing/spacex-has-applied-to-launch-another-million-satellites-into-orbit-all-to-power-ai"
+        },
+        {
+          "headline": "Inside Moltbook: the social network where AI agents talk to each other",
+          "summary": "An online experiment has Elon Musk believing that we are reaching the ‘singularity’. Is that really true?",
+          "url": "https://www.ft.com/content/078fe849-cc4f-43be-ab40-8bdd30c1187d"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-01-26",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
