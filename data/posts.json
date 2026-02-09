@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-02-09",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Tech support chap invented fake fix for non-problem and watched it spread across the office",
+          "summary": "Tech support chap invented fake fix for non-problem and watched it spread across the office",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/who_me/"
+        },
+        {
+          "headline": "A chilly January in the job market ",
+          "summary": "Plus, activism and AI in software",
+          "url": "https://www.ft.com/content/2f66d963-f6bf-4af6-8e63-518f2d7bd3d9"
+        },
+        {
+          "headline": "Chinese companies dominate investments in Singapore",
+          "summary": "Businesses have been using city-state to avoid geopolitical scrutiny and expand abroad",
+          "url": "https://www.ft.com/content/f5b2d154-ab8c-40f2-a148-e0022b1d5349"
+        },
+        {
+          "headline": "Indian police commissioner wants ID cards for AI agents",
+          "summary": "Indian police commissioner wants ID cards for AI agents",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/asia_tech_news_roundup/"
+        },
+        {
+          "headline": "Telcos aren't saying how they fought back against China's Salt Typhoon attacks",
+          "summary": "Telcos aren't saying how they fought back against China's Salt Typhoon attacks",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/08/infosec_news_in_brief/"
+        },
+        {
+          "headline": "Big Tech groups race to fund unprecedented $660bn AI spending spree",
+          "summary": "Executives face choice between cutting returns to shareholders, raiding reserves or tapping the markets",
+          "url": "https://www.ft.com/content/d503afd5-1012-40f0-8f9d-620dcb39a9a2"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-02-02",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
