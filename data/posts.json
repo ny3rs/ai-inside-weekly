@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-02-16",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Final step to put new website into production deleted it instead",
+          "summary": "Final step to put new website into production deleted it instead",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/who_me/"
+        },
+        {
+          "headline": "Germany vows more defence tech funding after backlash over tanks",
+          "summary": "Senior officials will direct more money towards innovation following criticism of reliance on ‘legacy’ systems",
+          "url": "https://www.ft.com/content/62f4a0f7-ffc9-49c8-b1e5-649703018dd1"
+        },
+        {
+          "headline": "Business schools search for clear AI guidelines",
+          "summary": "Attempts to establish shared standards are lagging behind adoption of the technology",
+          "url": "https://www.ft.com/content/3659b953-8a3a-4e13-b322-c973a545b836"
+        },
+        {
+          "headline": "Are Anthropic’s new AI work tools game-changing for professionals?",
+          "summary": "Adaptable plug-ins must compete with bespoke products already used by lawyers and consultants",
+          "url": "https://www.ft.com/content/92dfd571-8d34-42f1-8be8-dce126998e37"
+        },
+        {
+          "headline": "KPMG partner fined over using AI to pass AI test",
+          "summary": "Accounting firm has caught several staff members in recent months using the technology for internal exams",
+          "url": "https://www.ft.com/content/c30ded60-bece-45e0-981d-653e1e3e9818"
+        },
+        {
+          "headline": "OpenAI grabs OpenClaw creator Peter Steinberger to build personal agents",
+          "summary": "OpenAI grabs OpenClaw creator Peter Steinberger to build personal agents",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/open_ai_grabs_openclaw/"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-02-09",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
