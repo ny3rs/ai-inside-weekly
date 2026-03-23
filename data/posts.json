@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-03-23",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Nscale’s credit history (slightly chipped)",
+          "summary": "Defaults in their start",
+          "url": "https://www.ft.com/content/6c82786d-4159-44a1-8070-0f429daa8891"
+        },
+        {
+          "headline": "Military briefing: the high cost of using fighters to down Iranian drones ",
+          "summary": "Gulf states’ reliance on jets to battle waves of cheap Shaheds is testing their finances, pilots and planes",
+          "url": "https://www.ft.com/content/56e44d7b-4077-4785-87f6-5027a0beca66"
+        },
+        {
+          "headline": "Solo investor Air Street raises $232mn to chase hot AI bets",
+          "summary": "London-based Nathan Benaich’s approach uses speed and focus to find a foothold and deliver returns",
+          "url": "https://www.ft.com/content/c9e5d053-7b5b-47ed-9027-f8bfb3793bb9"
+        },
+        {
+          "headline": "Addison Lee boss urges minimum price for London robotaxis",
+          "summary": "CEO of private hire group says cab drivers need protection against ‘predatory pricing’",
+          "url": "https://www.ft.com/content/aa5d039d-b641-4777-88c2-0f367894fc72"
+        },
+        {
+          "headline": "Why performance reviews need a makeover",
+          "summary": "The ritual of awkward once-a-year conversations often fails to provide constructive feedback",
+          "url": "https://www.ft.com/content/c3d40d72-3c91-4dbe-9c48-a8f2940cc147"
+        },
+        {
+          "headline": "Microsoft: Removing some Copilots will improve Windows 11",
+          "summary": "Microsoft: Removing some Copilots will improve Windows 11",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/windows_quality_commitment/"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-02-16",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
