@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-03-30",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Mistral raises $830mn to build Nvidia-powered AI centres in Europe",
+          "summary": "French company’s debut debt financing follows rising demand for alternatives to US groups",
+          "url": "https://www.ft.com/content/229f4f59-d518-4e00-abd6-5a5b727cd2aa"
+        },
+        {
+          "headline": "Security contractor blew the whistle on support crew's viral indifference",
+          "summary": "Security contractor blew the whistle on support crew's viral indifference",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/who_me/"
+        },
+        {
+          "headline": "Short rates have overshot",
+          "summary": "Plus the social media lawsuits",
+          "url": "https://www.ft.com/content/bebc453a-b6ed-44a0-8b0a-e1c641c94682"
+        },
+        {
+          "headline": "US foreign router ban criticized for being ‘industrial policy disguised as cybersecurity’",
+          "summary": "US foreign router ban criticized for being ‘industrial policy disguised as cybersecurity’",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/professor_criticizes_fcc_router_ban/"
+        },
+        {
+          "headline": "WTO reform talks collapse over US-Brazil stand-off",
+          "summary": "Dispute over ecommerce tariffs derails agreement on overhaul of global trade body",
+          "url": "https://www.ft.com/content/ac711230-3ee6-467f-824a-3a74d356076c"
+        },
+        {
+          "headline": "The karaoke company, the penny stock investor and the $17bn trucking rout ",
+          "summary": "Controversial trader John Fife invested in Algorhythm months before its AI announcement triggered a surge in its share price and a market panic",
+          "url": "https://www.ft.com/content/bb8d2108-f17d-4b7c-b9bc-e9c6dcfa34a5"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-03-23",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
