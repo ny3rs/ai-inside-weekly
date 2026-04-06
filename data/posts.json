@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-04-06",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "The developer who came in from the cold and melted a mainframe",
+          "summary": "The developer who came in from the cold and melted a mainframe",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/06/who_me/"
+        },
+        {
+          "headline": "Ukraine’s drones dent Russia’s war-fuelled oil windfall",
+          "summary": "Disrupted exports add pressure to markets already reeling from Iran conflict",
+          "url": "https://www.ft.com/content/d49e288f-b74e-44a8-a2f3-ec87f7cb5c27"
+        },
+        {
+          "headline": "Private equity buyouts slump as AI fears and war dent dealmaking",
+          "summary": "Groups agreed acquisitions worth $172bn in three months to March, a 36 per cent fall from previous quarter",
+          "url": "https://www.ft.com/content/52ba3545-72ae-4bb6-86dd-1f892adccecf"
+        },
+        {
+          "headline": "AI has arrived in auditing. Are regulators ready?",
+          "summary": "The technology is already leading to rapid changes in the way company accounts are reviewed",
+          "url": "https://www.ft.com/content/14062aaa-251d-414f-8978-8d7d8f5311e3"
+        },
+        {
+          "headline": "AI dolls offer companionship to the elderly",
+          "summary": "South Korea’s strained social care system turns to ChatGPT-enabled devices as population ages",
+          "url": "https://www.ft.com/content/88911383-2a17-42e1-aef4-36daac1bd9dd"
+        },
+        {
+          "headline": "Anthropic sure has a mess on its hands thanks to that Claude Code source leak",
+          "summary": "Anthropic sure has a mess on its hands thanks to that Claude Code source leak",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/06/anthropic_code_leak_kettle_podcast/"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-03-30",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
