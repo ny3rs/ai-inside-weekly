@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-04-13",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": " How to deploy physical AI effectively ",
+          "summary": "Physical AI moves intelligence to the edge, enabling instant, reliable decisions where cloud can’t reach.",
+          "url": "https://www.techradar.com/pro/how-to-deploy-physical-ai-effectively"
+        },
+        {
+          "headline": "AI went viral among attorneys. We have the numbers on what happened next",
+          "summary": "AI went viral among attorneys. We have the numbers on what happened next",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/ai_attorneys/"
+        },
+        {
+          "headline": "France’s digital directorate dumping Windows desktops, adopting Linux instead",
+          "summary": "France’s digital directorate dumping Windows desktops, adopting Linux instead",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/france_tech_sovereignty_plan/"
+        },
+        {
+          "headline": "IT manager approved downtime over lunch, but made a meal of it",
+          "summary": "IT manager approved downtime over lunch, but made a meal of it",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/who_me/"
+        },
+        {
+          "headline": "Carson Block sees new dawn for short sellers in AI disruption",
+          "summary": "Muddy Waters founder says bets against US stocks will have ‘wind at their backs’ as technology upends markets",
+          "url": "https://www.ft.com/content/83b4d584-686b-4228-a59e-79f15c7510b7"
+        },
+        {
+          "headline": "Meta builds AI version of Mark Zuckerberg to interact with staff",
+          "summary": "Chief executive is training and testing his own character as part of wider push to develop ‘personal superintelligence’",
+          "url": "https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-04-06",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
