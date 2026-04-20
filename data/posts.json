@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-04-20",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "AI quota inflation is no token effort. It's baked in",
+          "summary": "AI quota inflation is no token effort. It's baked in",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/inflation_ai_quota/"
+        },
+        {
+          "headline": "Risk Management: Financial Institutions",
+          "summary": "The soaring level of US government debt; how AI is increasing the speed and depth of cyber attacks; and geopolitical shocks have highlighted the need for diversity in cloud provide…",
+          "url": "https://www.ft.com/reports/risk-management-financial-institutions"
+        },
+        {
+          "headline": "AI boom poised to be ‘massively disinflationary’, Northern Trust says",
+          "summary": "Head of financial services group’s $1.4tn asset management division expects new tech to unleash huge productivity gains",
+          "url": "https://www.ft.com/content/7ec229f4-200e-4f34-ba6d-0642397d03e3"
+        },
+        {
+          "headline": "The return of the e-merging markets",
+          "summary": "For now South Korea and Taiwan are the biggest beneficiaries of the AI wave",
+          "url": "https://www.ft.com/content/3f3324fa-c0b6-479e-9ed4-10b72f0a75f8"
+        },
+        {
+          "headline": "Ukraine’s drone pilots hit Russian targets from 500km away",
+          "summary": "New internet-based guidance system allows operation of unmanned aerial vehicles far from battlefield",
+          "url": "https://www.ft.com/content/9287516e-8ec1-4209-acbc-bc33011ed914"
+        },
+        {
+          "headline": "New technology is increasing the speed and depth of cyber attacks",
+          "summary": "Financial services groups are having to adapt rapidly to the changing threat landscape",
+          "url": "https://www.ft.com/content/954a44c6-cc11-49dd-b95a-dba61438b532"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-04-13",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
