@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-04-27",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": " The antidote to Zombie Projects that drain productivity is AI ",
+          "summary": "How Zombie Projects are draining productivity and how AI can help.",
+          "url": "https://www.techradar.com/pro/the-antidote-to-zombie-projects-that-drain-productivity-is-ai"
+        },
+        {
+          "headline": "China blocks Meta’s $2bn purchase of AI group Manus",
+          "summary": "Regulators had reviewed whether deal violated Beijing’s investment rules",
+          "url": "https://www.ft.com/content/1e4c269a-5258-406c-a308-e55c3d5d640f"
+        },
+        {
+          "headline": "Anthropic's magic code-sniffer: More Swiss cheese than cheddar, for now",
+          "summary": "Anthropic's magic code-sniffer: More Swiss cheese than cheddar, for now",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/anthropics_magic_codesniffer_more_swiss/"
+        },
+        {
+          "headline": "PowerPoint punishment sent users into an infinite loop after lunch",
+          "summary": "PowerPoint punishment sent users into an infinite loop after lunch",
+          "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/who_me/"
+        },
+        {
+          "headline": "Chip toolmaker Tokyo Electron cuts ties with executive linked to Chinese rivals",
+          "summary": "Veteran executive Jay Chen, who helped build Japanese group’s China business, left after links to start-ups surfaced",
+          "url": "https://www.ft.com/content/dcc1b342-0d2a-4c1d-8e69-8d201dd2dec6"
+        },
+        {
+          "headline": "The tensions behind Palantir’s efforts to transform English healthcare",
+          "summary": "Senior NHS staff divided on practical benefits of US company’s ‘not terrible, not revolutionary’ software",
+          "url": "https://www.ft.com/content/36a5ae05-bfa2-4e74-af35-8ba9e3d76ca3"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-04-20",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
