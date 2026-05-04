@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-05-04",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": " Why software defects are now the biggest security threat ",
+          "summary": "Why bugs and misconfigurations pose as much of a cyber threat as hackers.",
+          "url": "https://www.techradar.com/pro/why-software-defects-are-now-the-biggest-security-threat"
+        },
+        {
+          "headline": " 'Humans will do high-touch, empathetic, clinical judgment-type work, but AI will create the capacity right now': Google's future for healthcare has AI for both the clinician and the patient ",
+          "summary": "AI in healthcare is less about making medical decisions and more about giving clinicians and patients quicker access to unified records.",
+          "url": "https://www.techradar.com/pro/humans-will-do-high-touch-empathetic-clinical-judgment-type-work-but-ai-will-create-the-capacity-right-now-googles-future-for-healthcare-has-ai-for-both-the-clinician-and-the-patient"
+        },
+        {
+          "headline": " Summarization is not reasoning: How hybrid AI fixes failing AIOps ",
+          "summary": "Agentic AI will transform IT operations, but only if the right foundation is in place.",
+          "url": "https://www.techradar.com/pro/summarization-is-not-reasoning-how-hybrid-ai-fixes-failing-aiops"
+        },
+        {
+          "headline": "GameStop makes unsolicited $56bn offer for eBay",
+          "summary": "Video game retailer offers $125 a share for resale web giant",
+          "url": "https://www.ft.com/content/31bfd02e-a02e-45fd-ad46-51544b1a3a8a"
+        },
+        {
+          "headline": "AI + Halo = $$$",
+          "summary": "A techno-industrial boomlet",
+          "url": "https://www.ft.com/content/98dd891a-86fb-45dc-9d47-c07798f6a907"
+        },
+        {
+          "headline": "AI in Practice",
+          "summary": "Water utilities jettison listening sticks; restaurants aim to cut waste and reduce costs; recruiters’ quest to find the perfect connection; start-ups move fast with AI-generated co…",
+          "url": "https://www.ft.com/reports/AI-in-practice"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-04-27",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
