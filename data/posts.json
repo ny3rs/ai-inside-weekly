@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-05-18",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": " Apple says its new AI Siri will be ‘fundamentally different’ from ChatGPT and Gemini — but WWDC could be a make-or-break moment ",
+          "summary": "Siri’s AI upgrade will get a privacy boost but could only launch in beta, a report claims.",
+          "url": "https://www.techradar.com/ai-platforms-assistants/apple-says-its-new-ai-siri-will-be-fundamentally-different-from-chatgpt-and-gemini-but-wwdc-could-be-a-make-or-break-moment"
+        },
+        {
+          "headline": " AI is breaking the limits of work (not jobs) ",
+          "summary": "AI multiplies output, but companies win by structuring decisions, not just deploying tools.",
+          "url": "https://www.techradar.com/pro/ai-is-breaking-the-limits-of-work-not-jobs"
+        },
+        {
+          "headline": " The rise of AI advice - and why peer networks still matter ",
+          "summary": "Small business leaders are embracing AI for advice; however, Amex research finds peer networks remain irreplaceable.",
+          "url": "https://www.techradar.com/pro/the-rise-of-ai-advice-and-why-peer-networks-still-matter"
+        },
+        {
+          "headline": " The scale-up playbook is broken. Here's what replaces it ",
+          "summary": "Breaking down the five myths about scaling up that it's time to retire.",
+          "url": "https://www.techradar.com/pro/the-scale-up-playbook-is-broken-heres-what-replaces-it"
+        },
+        {
+          "headline": "Mozilla warns UK: Breaking VPNs will not magically fix Britain's age-check mess",
+          "summary": "Firefox maker says the tools are basic security infrastructure, not teenage contraband",
+          "url": "https://www.theregister.com/security/2026/05/18/mozilla-warns-uk-breaking-vpns-will-not-magically-fix-britains-age-check-mess/5241770"
+        },
+        {
+          "headline": " Breaking free from pilot purgatory. The strategies needed to scale agentic AI ",
+          "summary": "How enterprises move agentic AI from pilots to secure, scalable production through trust and control.",
+          "url": "https://www.techradar.com/pro/breaking-free-from-pilot-purgatory-the-strategies-needed-to-scale-agentic-ai"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-05-04",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
