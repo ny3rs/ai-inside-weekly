@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-05-25",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": " Why fiber is the real secret to scaling intelligence in artificial intelligence factories ",
+          "summary": "AI factories can’t scale on silicon alone; dense fiber is the real intelligence layer.",
+          "url": "https://www.techradar.com/pro/why-fiber-is-the-real-secret-to-scaling-intelligence-in-artificial-intelligence-factories"
+        },
+        {
+          "headline": " Most ransomware attacks are opportunistic. Here’s how you can stop attackers ",
+          "summary": "Ransomware isn’t targeted - it exploits predictable gaps like poor hygiene and missing basics.",
+          "url": "https://www.techradar.com/pro/most-ransomware-attacks-are-opportunistic-heres-how-you-can-stop-attackers"
+        },
+        {
+          "headline": " Why self-running agents are creating the biggest security crisis of 2026 ",
+          "summary": "Securing autonomous agents - how enterprises can bridge the gap in this new AI era.",
+          "url": "https://www.techradar.com/pro/why-self-running-agents-are-creating-the-biggest-security-crisis-of-2026"
+        },
+        {
+          "headline": " AI is making everyone web app builders - but leaving teams exposed ",
+          "summary": "When (and why) does AI coding flip from promising to a security nightmare? Let's look under the coding hood.",
+          "url": "https://www.techradar.com/pro/ai-is-making-everyone-web-app-builders-but-leaving-teams-exposed"
+        },
+        {
+          "headline": "Digital sovereignty, the musical: One engineer’s bizarre crusade against hyperscalers",
+          "summary": "A French engineer has declared war on AWS, Google and Microsoft using AI-generated sea shanties, satirical poetry, and a multilingual protest campaign",
+          "url": "https://www.theregister.com/offbeat/2026/05/25/digital-sovereignty-the-musical-one-engineers-bizarre-crusade-against-hyperscalers/5245148"
+        },
+        {
+          "headline": "Pope Leo warns AI revolution driven by ‘idolatry of profit’",
+          "summary": "Pontiff says it is ‘not permissible’ to entrust lethal decisions to artificial systems",
+          "url": "https://www.ft.com/content/12313f08-991d-4079-9631-9ce7ae70c3e3"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-05-18",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
