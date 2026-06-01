@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-06-01",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Palo Alto VPN bug graduates from advisory to active exploitation",
+          "summary": "Rapid7: Attackers exploit authentication bypass flaw in the wild, meaning more emergency patching for PAN-OS users",
+          "url": "https://www.theregister.com/cyber-crime/2026/06/01/palo-alto-vpn-bug-graduates-from-advisory-to-active-exploitation/5249114"
+        },
+        {
+          "headline": " 'Robots that can perform real work': Nvidia, Unitree, and Sharpa are forming a super-group to make the most capable humanoid robots yet — with Jensen Huang promising a ‘meaningful step’ towards frighteningly capable robots ",
+          "summary": "A new collaboration between industry leaders should mean robots that are more intelligent and versatile.",
+          "url": "https://www.techradar.com/ai-platforms-assistants/robots-that-can-perform-real-work-nvidia-unitree-and-sharpa-are-forming-a-super-group-to-make-the-most-capable-humanoid-robots-yet-with-jensen-huang-promising-a-meaningful-step-towards-frighteningly-capable-robots"
+        },
+        {
+          "headline": "Nvidia's Grace Blackwell superchips are officially coming to the PC with RTX Spark notebooks ",
+          "summary": "Forget Wintel, we're living in a Winvidia world now",
+          "url": "https://www.theregister.com/systems/2026/06/01/nvidia-recasts-gb10-superchip-in-bid-for-high-end-pc-market/5249068"
+        },
+        {
+          "headline": " The biggest cyber threats businesses face in 2026 ",
+          "summary": "AI-driven cyber threats are evolving fast – here's what businesses need to watch in 2026.",
+          "url": "https://www.techradar.com/pro/the-biggest-cyber-threats-businesses-face-in-2026"
+        },
+        {
+          "headline": "Putin sends submarines to survey Britain's subsea cables. UK deploys Royal Navy, mobilizes parliamentary draftsmen",
+          "summary": "Proposed legislation threatens fines and prison for reckless damage. Russian Prez must be shaking in his boots",
+          "url": "https://www.theregister.com/networks/2026/06/01/putin-sends-submarines-to-survey-britains-subsea-cables-uk-deploys-royal-navy-mobilizes-parliamentary-draftsmen/5248978"
+        },
+        {
+          "headline": " Your cloud vendors are shipping AI-generated code. More outages are coming. ",
+          "summary": "Your cloud vendors are shipping AI code faster than they can test it, and you'll pay the price.",
+          "url": "https://www.techradar.com/pro/your-cloud-vendors-are-shipping-ai-generated-code-more-outages-are-coming"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-05-25",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
