@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-06-08",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Wall Street set for gains after AI-led rout",
+          "summary": "US stocks poised to rebound from Friday’s fall that rattled global markets",
+          "url": "https://www.ft.com/content/2f0f727b-5315-445c-b8f1-6aa65bd7474c"
+        },
+        {
+          "headline": "UK boffin bait lands 18 international researchers",
+          "summary": "Global Talent visa program aims to draw in dissatisfied scientists from countries including the US",
+          "url": "https://www.theregister.com/science/2026/06/08/uk-boffin-bait-lands-18-international-researchers/5252046"
+        },
+        {
+          "headline": "Brit fraudsters using AI to doctor 'evidence' in motor insurance claims",
+          "summary": "Policy-holders increasingly turn fender benders into much more by sprinkling in their favorite AI chatbots, Aviva says",
+          "url": "https://www.theregister.com/ai-and-ml/2026/06/08/motor-insurance-frausters-abusing-ai-to-exaggerate-claims/5252024"
+        },
+        {
+          "headline": " What the OpenClaw vulnerability reveals about the future of agentic AI security ",
+          "summary": "OpenClaw exposes how autonomous AI agents are reshaping enterprise security risks..",
+          "url": "https://www.techradar.com/pro/what-the-openclaw-vulnerability-reveals-about-the-future-of-agentic-ai-security"
+        },
+        {
+          "headline": " AI could actually be driving positive tech job growth in Europe – but still presents growing security risks and skills gap ",
+          "summary": "Linux Foundation and WEF data both challenge job displacement concerns, revealing net job growth across Europe.",
+          "url": "https://www.techradar.com/pro/ai-could-actually-be-driving-positive-tech-job-growth-in-europe-but-still-presents-growing-security-risks-and-skills-gap"
+        },
+        {
+          "headline": " The most exciting thing about the new Siri is the new hardware it’ll unlock — here’s what it could mean for a new Apple TV, HomePod mini and Siri Remote ",
+          "summary": "Siri will get an AI upgrade at Apple’s WWDC show today. Here’s how it could affect the Apple TV and HomePod mini.",
+          "url": "https://www.techradar.com/ai-platforms-assistants/the-most-exciting-thing-about-the-new-siri-is-the-hardware-itll-unlock-heres-what-it-could-mean-for-a-new-apple-tv-homepod-mini-and-siri-remote"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-06-01",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
