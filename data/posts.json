@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-06-15",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": " 'Set picture mode to Sport': Gemini on Google TVs is getting its most useful upgrade yet — you can now tell it to change picture settings instantly, or even just tell it what's wrong with the picture and it'll (try to) fix it for you ",
+          "summary": "Google is rolling out an update to its Gemini TV platform that will enable you to control your TV's settings via voice — but it's on TCL TVs in the US at first.",
+          "url": "https://www.techradar.com/televisions/set-picture-mode-to-sport-gemini-on-google-tvs-is-getting-its-most-useful-upgrade-yet-you-can-now-tell-it-to-change-picture-settings-instantly-or-even-just-tell-it-whats-wrong-with-the-picture-and-itll-try-to-fix-it-for-you"
+        },
+        {
+          "headline": "Flatpak-NG sounds like bad news for systemd refuseniks",
+          "summary": "Linux app packaging rethink could leave alternative-init distros in the cold",
+          "url": "https://www.theregister.com/software/2026/06/15/flatpak-ng-sounds-like-bad-news-for-systemd-refuseniks/5254885"
+        },
+        {
+          "headline": "SpaceX shares set for second day of gains after blockbuster debut ",
+          "summary": "Stock in Elon Musk’s AI, satellite and rocket group climbs more than 5% in pre-market trading on Monday",
+          "url": "https://www.ft.com/content/55fe2a70-4cf1-4749-a2c2-f0a5985dd281"
+        },
+        {
+          "headline": "How will the UK’s social media ban work?",
+          "summary": "Keir Starmer’s government has pledged to go further than Australia despite technical challenges",
+          "url": "https://www.ft.com/content/3759c05f-176e-44b0-989e-c5e9511ab825"
+        },
+        {
+          "headline": "Arson targeting Keir Starmer properties originated in Russia",
+          "summary": "Handler was affiliated with a pro-Kremlin hacktivist group",
+          "url": "https://www.ft.com/content/dd79d6eb-44e4-4365-8c6e-a4fd64b211c8"
+        },
+        {
+          "headline": "Stocks surge as deal ignites global rally",
+          "summary": "Investor sentiment also helped by SpaceX’s historic initial public offering",
+          "url": "https://www.ft.com/content/8a6849de-b27c-4680-a80d-42b85b0e77eb"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-06-08",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
