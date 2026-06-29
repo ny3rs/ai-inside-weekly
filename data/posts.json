@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-06-29",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": " 'Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice': Microsoft is fuelling up Excel with lots more AI tools for finance workers ",
+          "summary": "Microsoft has launched even more AI tools for Excel to maintain the software's position as a go-to finance tool.",
+          "url": "https://www.techradar.com/pro/plenty-of-ai-tools-claim-to-be-built-for-finance-microsoft-365-copilot-in-excel-is-proving-it-in-practice-microsoft-is-fuelling-up-excel-with-lots-more-ai-tools-for-finance-workers"
+        },
+        {
+          "headline": " The businesses paying for AI aren't going back ",
+          "summary": "Small businesses aren't cancelling their AI subscriptions — and the reason why might surprise you.",
+          "url": "https://www.techradar.com/pro/the-businesses-paying-for-ai-arent-going-back"
+        },
+        {
+          "headline": "China grounds light aircraft after Beijing tower crash",
+          "summary": "Flight operators say authorities issued indefinite nationwide airspace controls",
+          "url": "https://www.ft.com/content/343d5926-cfc3-43af-8cbe-3d3b3d194cf1"
+        },
+        {
+          "headline": " The AI infrastructure boom is bigger than GPUs ",
+          "summary": "AI infrastructure is evolving beyond GPUs into the operational backbone of enterprise business systems.",
+          "url": "https://www.techradar.com/pro/the-ai-infrastructure-boom-is-bigger-than-gpus"
+        },
+        {
+          "headline": "AInflation is real but tiny",
+          "summary": "Plus, European stocks ain’t cheap",
+          "url": "https://www.ft.com/content/62a3e2df-ec52-4023-9142-95d13b19e69b"
+        },
+        {
+          "headline": "Artificial intelligence and Engels’ Pause",
+          "summary": "Politics could be a bigger constraint than power and compute",
+          "url": "https://www.ft.com/content/daab10e0-fde8-4de0-9d46-a597d59b503d"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-06-15",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
