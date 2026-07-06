@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-07-06",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": " Microsoft makes major AI U-turn following user revolt — will let Teams users turn off Copilot, Facilitator and Recap ",
+          "summary": "User backlash to Microsoft Teams AI tools leads to major shift in policy choices.",
+          "url": "https://www.techradar.com/pro/microsoft-makes-major-ai-u-turn-following-user-revolt-will-let-teams-users-turn-off-copilot-facilitator-and-recap"
+        },
+        {
+          "headline": " 'We’re seeing a clear divide': Many business leaders admit they only have a 'limited understanding' of AI budgets ",
+          "summary": "Productivity and cost savings are actually dropping – new data shows a massive gap in visibility leading to poor ROI.",
+          "url": "https://www.techradar.com/pro/were-seeing-a-clear-divide-many-business-leaders-admit-they-only-have-a-limited-understanding-of-ai-budgets"
+        },
+        {
+          "headline": "Secure Unix ancestor KSOS did type safety before Rust made it cool",
+          "summary": "Modula-based source code resurfaces after nearly four decades",
+          "url": "https://www.theregister.com/os-platforms/2026/07/06/secure-unix-ancestor-ksos-did-type-safety-before-rust-made-it-cool/5266458"
+        },
+        {
+          "headline": " How data governance builds true business resilience ",
+          "summary": "How proactive data governance strengthens resilience, improves AI outcomes and builds trust.",
+          "url": "https://www.techradar.com/pro/how-data-governance-builds-true-business-resilience"
+        },
+        {
+          "headline": "Insert token to continue, says AI. Yeah, about that...",
+          "summary": "Barney Rubble points to bubble trouble",
+          "url": "https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319"
+        },
+        {
+          "headline": " Crawl, walk, run – that’s how you get humanoid robotics all grown up ",
+          "summary": "Though manufacturers are investing billions in development, the robots themselves remain in adolescent stage.",
+          "url": "https://www.techradar.com/pro/crawl-walk-run-thats-how-you-get-humanoid-robotics-all-grown-up"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-06-29",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
