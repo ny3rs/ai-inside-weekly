@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-07-13",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": " Why AI infrastructure costs keep surprising IT leaders ",
+          "summary": "Production AI changes infrastructure economics in ways most teams underestimate.",
+          "url": "https://www.techradar.com/pro/why-ai-infrastructure-costs-keep-surprising-it-leaders"
+        },
+        {
+          "headline": "Backup and running? Not this digital sign",
+          "summary": "Nagware goes large on the mean streets of Derby",
+          "url": "https://www.theregister.com/offbeat/2026/07/13/backup-and-running-not-this-digital-sign-1/5269021"
+        },
+        {
+          "headline": "Ukraine’s drone swarms test Moscow air defences for second day",
+          "summary": "Kyiv intensifies deep-strike campaign against Russia after attacks on refineries sparked fuel crisis",
+          "url": "https://www.ft.com/content/4194d23f-4cce-4aaa-bf22-9bf4c953e04e"
+        },
+        {
+          "headline": "Global stocks fall as Asian memory chipmakers hammered",
+          "summary": "Oil jumps as US-Iran hostilities escalate and investors go into ‘risk-off’ mode",
+          "url": "https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734"
+        },
+        {
+          "headline": " AI can read your legacy systems. Modernization is still the hard part ",
+          "summary": "As AI makes legacy estates easier to understand, the challenge shifts to sequencing change without disrupting critical operations.",
+          "url": "https://www.techradar.com/pro/ai-can-read-your-legacy-systems-modernization-is-still-the-hard-part"
+        },
+        {
+          "headline": "Photovoltaics are still running after a year under Swiss trains",
+          "summary": "Solar boss reckons challenges are regulatory, not technological",
+          "url": "https://www.theregister.com/offbeat/2026/07/13/photovoltaics-are-still-running-after-a-year-under-swiss-trains/5269664"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-07-06",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
