@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-07-20",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Airbus takes flight from AWS. What happens next is critical",
+          "summary": "Which way to the Land of the Free again?",
+          "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109"
+        },
+        {
+          "headline": " Artificial intelligence agents need access, not secrets ",
+          "summary": "AI agents need trusted access without unnecessary exposure to secrets.",
+          "url": "https://www.techradar.com/pro/artificial-intelligence-agents-need-access-not-secrets"
+        },
+        {
+          "headline": " Solving the energy conundrum is key to unlocking the UK’s AI economy ",
+          "summary": "Recent evidence shows that energy cost pressures and a power grid capacity crunch risk becoming a bottleneck on the growth of the UK’s digital economy.",
+          "url": "https://www.techradar.com/pro/solving-the-energy-conundrum-is-key-to-unlocking-the-uks-ai-economy"
+        },
+        {
+          "headline": "Auditors tell UK government to do the math before banking on £45B AI savings",
+          "summary": "Departments haven't worked out how the technology will reshape staffing, roles, and skills across the public sector",
+          "url": "https://www.theregister.com/public-sector/2026/07/20/auditors-tell-uk-government-to-do-the-math-before-banking-on-45b-ai-savings/5274194"
+        },
+        {
+          "headline": "High hardware costs see Red Hat offer a two-server edge rig, no mini-PC required",
+          "summary": "Worries about ‘prohibitive cost of powering, maintaining, and deploying a third node’",
+          "url": "https://www.theregister.com/systems/2026/07/20/high-hardware-costs-see-red-hat-offer-a-two-server-edge-rig-no-mini-pc-required/5274762"
+        },
+        {
+          "headline": "Comment in code read 'Dear future me, sorry I wrote this'",
+          "summary": "Developer was hired to write VB, used C# instead, and thought he mostly made it work",
+          "url": "https://www.theregister.com/software/2026/07/20/comment-in-code-read-dear-future-me-sorry-i-wrote-this/5274130"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-07-13",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
