@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-07-27",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": " Crunch time: Let AI work the numbers, but leave the emotional decisions to humans ",
+          "summary": "AI can crunch the numbers, but human judgement remains finance's greatest asset.",
+          "url": "https://www.techradar.com/pro/crunch-time-let-ai-work-the-numbers-but-leave-the-emotional-decisions-to-humans"
+        },
+        {
+          "headline": "Digital sovereignty is real in Europe. The UK? Not so much",
+          "summary": "Trump's unpredictability is pushing governments and businesses toward open source while Britain remains glued to US tech",
+          "url": "https://www.theregister.com/columnists/2026/07/27/digital-sovereignty-is-real-in-europe-the-uk-not-so-much/5276852"
+        },
+        {
+          "headline": " The evolving role of network engineers in the age of AI ",
+          "summary": "AI is reshaping networking: integrated security, real-time visibility and predictive automation help engineers prevent issues before disruption.",
+          "url": "https://www.techradar.com/pro/the-evolving-role-of-network-engineers-in-the-age-of-ai"
+        },
+        {
+          "headline": "The roller coaster works, but the Six Flags kiosk has gone off the rails",
+          "summary": "Would you like an error with your terror?",
+          "url": "https://www.theregister.com/offbeat/2026/07/27/the-roller-coaster-works-but-the-six-flags-kiosk-has-gone-off-the-rails/5276467"
+        },
+        {
+          "headline": " AI and regulation are reshaping the future of building security ",
+          "summary": "Physical and digital security systems can no longer be treated as separate entities.",
+          "url": "https://www.techradar.com/pro/ai-and-regulation-are-reshaping-the-future-of-building-security"
+        },
+        {
+          "headline": "FOSS smashed one Microsoft monopoly. After 20 years of failure, it's time to smash another",
+          "summary": "Word up",
+          "url": "https://www.theregister.com/columnists/2026/07/27/foss-smashed-one-microsoft-monopoly-after-20-years-of-failure-its-time-to-smash-another/5278040"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-07-20",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
