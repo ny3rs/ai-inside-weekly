@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-08-03",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Sci-fi authors Scalzi and Stross decry AI's dystopian impact on their craft",
+          "summary": "LLMs are theft by 'absolute scum' who make life harder for writers by putting them in copyright peril",
+          "url": "https://www.theregister.com/ai-and-ml/2026/08/03/sci-fi-authors-scalzi-and-stross-decry-ais-dystopian-impact-on-their-craft/5282176"
+        },
+        {
+          "headline": " The six-stage journey: Why 62% of organizations are stuck below the AI value line ",
+          "summary": "In 2026, the AI conversation has shifted from implementation to ROI. Here's why most companies fail to capitalize.",
+          "url": "https://www.techradar.com/pro/the-six-stage-journey-why-62-percent-of-organizations-are-stuck-below-the-ai-value-line"
+        },
+        {
+          "headline": " Why vertical AI is the defining opportunity for enterprise right now ",
+          "summary": "The race to deploy horizontal AI tools may be leaving real competitive advantage on the table.",
+          "url": "https://www.techradar.com/pro/why-vertical-ai-is-the-defining-opportunity-for-enterprise-right-now"
+        },
+        {
+          "headline": " The infrastructure debt AI creates isn't in the code. It's in the operations ",
+          "summary": "As AI speeds development, organizations must rethink how they govern and manage infrastructure.",
+          "url": "https://www.techradar.com/pro/the-infrastructure-debt-ai-creates-isnt-in-the-code-its-in-the-operations"
+        },
+        {
+          "headline": " Why even the biggest brands have low AI readiness ",
+          "summary": "AI presents what it finds across your digital estate including out-of-date and inaccurate content.",
+          "url": "https://www.techradar.com/pro/why-even-the-biggest-brands-have-low-ai-readiness"
+        },
+        {
+          "headline": "As Larry Ellison bets the farm, Oracle says it loves AI-written code, just not in OpenJDK",
+          "summary": "Use it to debug and review, says Big Red, but don't submit its output",
+          "url": "https://www.theregister.com/ai-and-ml/2026/08/03/as-larry-ellison-bets-the-farm-oracle-says-it-loves-ai-written-code-just-not-in-openjdk/5281851"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-07-27",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
