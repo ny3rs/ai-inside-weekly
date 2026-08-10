@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-08-10",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Linus Torvalds says AI has made 'huge' Linux kernel updates the new normal",
+          "summary": "He’s not thrilled, but won’t let it delay the release of version 7.2",
+          "url": "https://www.theregister.com/os-platforms/2026/08/10/linus-torvalds-says-ai-has-made-huge-linux-kernel-updates-the-new-normal/5285268"
+        },
+        {
+          "headline": "Senior UK detective under investigation for alleged misuse of AI",
+          "summary": "Police watchdog says officer was referred to them by Derbyshire Constabulary following ‘internal review’",
+          "url": "https://www.ft.com/content/28b389f5-5f74-4993-a9b3-edd0c500d49a?syn-25a6b1a6=1"
+        },
+        {
+          "headline": "UK missile and drone interceptor start-up raises $300mn at $3.4bn valuation",
+          "summary": "Cambridge Aerospace has secured MoD contracts and is in talks with the US government about providing systems",
+          "url": "https://www.ft.com/content/d6584acb-bce5-4a21-959b-f352b53ea892?syn-25a6b1a6=1"
+        },
+        {
+          "headline": "Todd Boehly’s group rolls out AI to Chelsea and A24",
+          "summary": "Eldridge will embed technology in companies from Chelsea Football Club to film studio A24 after acquiring 50% of Sudolabs",
+          "url": "https://www.ft.com/content/1b3493a5-2b0b-4a3e-86e0-76b7f2de373a?syn-25a6b1a6=1"
+        },
+        {
+          "headline": "Advertisers are trying to influence AI bots with secret ads",
+          "summary": "PLUS: Hiveminds are emerging to hack the planet, and open-weight models are the new new red scare.",
+          "url": "https://www.theregister.com/ai-and-ml/2026/08/10/advertisers-are-trying-to-influence-ai-bots-with-secret-ads/5285093"
+        },
+        {
+          "headline": "NEC tests parking tech that only starts charging once you exit your car",
+          "summary": "PLUS: Infosys to wear Crocs for a decade; Fujifilm may quit printers; 2GW datacenter debuts in western China; and more!",
+          "url": "https://www.theregister.com/software/2026/08/10/nec-tests-parking-tech-that-only-starts-charging-once-you-exit-your-car/5285245"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-08-03",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
