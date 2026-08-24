@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-08-24",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Batch file automated a clean-up job, then fouled itself by deleting the wrong directory",
+          "summary": "It survived testing and the boss signed off, so who was really to blame?",
+          "url": "https://www.theregister.com/software/2026/08/24/batch-file-automated-a-clean-up-job-then-fouled-itself-by-deleting-the-wrong-directory/5290873"
+        },
+        {
+          "headline": "UK statistics agency turns to AI to cut costs and improve data",
+          "summary": "ONS says technology will help save thousands of hours a year as it seeks to strengthen core output",
+          "url": "https://www.ft.com/content/b153db68-a361-4217-9cc5-b766a15c1922?syn-25a6b1a6=1"
+        },
+        {
+          "headline": "Does AI belong on your face?",
+          "summary": "Big Tech thinks wearables are the gateway to artificial intelligence. Critics call it cringe stalkerware",
+          "url": "https://www.ft.com/content/3f25f892-2de2-40e6-9592-a7ac18682c6c?syn-25a6b1a6=1"
+        },
+        {
+          "headline": "US widens AI-driven investment gap with Europe",
+          "summary": "The bloc struggles to keep up with US spending on high-tech equipment and facilities",
+          "url": "https://www.ft.com/content/77b94c4a-4b4b-4983-9138-7db6926150f4?syn-25a6b1a6=1"
+        },
+        {
+          "headline": "AI-driven upgrade of communications energy storage empowers a new energy ecosystem for multiple industries",
+          "summary": "SPONSORED FEATURE: Embedding AI at communication sites to empower energy optimization, power grid stability control and low-carbon development",
+          "url": "https://www.theregister.com/ai-and-ml/2026/08/24/sponsored-ai-driven-upgrade-of-communications-energy-storage-empowers-a-new-energy-ecosystem-for-multiple-industries/5290186"
+        },
+        {
+          "headline": " When AI dating goes wrong: as EVA AI hires the world's first ‘AI Companionship Therapist’, its resident relationship expert talks chatbot dependency — and the 28-year-old CEO of a human-only meet-up app tells me why he thinks AI infatuation is over ",
+          "summary": "Shame, jealousy, anger, addiction: are AI relationships causing more harm than good? and what’s the alternative to dating inside a screen in 2026?",
+          "url": "https://www.techradar.com/ai-platforms-assistants/when-ai-dating-goes-wrong-eva-ai-hires-the-worlds-first-ai-companionship-therapist-a-psychotherapist-talks-chatbot-love-and-why-the-28-year-old-ceo-of-a-human-only-meet-up-app-thinks-ai-infatuation-is-over"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-08-10",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
