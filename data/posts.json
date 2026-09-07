@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-09-07",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Nitter lives to proxy another day after taking legal advice",
+          "summary": "Public instance XCancel uncancelled after X Corp's cease-and-desist campaign, with others promised shortly",
+          "url": "https://www.theregister.com/personal-tech/2026/09/07/nitter-lives-to-proxy-another-day-after-taking-legal-advice/5294754"
+        },
+        {
+          "headline": " ‘Other governments will be watching this closely’ — South Korea starts testing free AI for the public ",
+          "summary": "South Korea’s free public AI project is a promising global experiment, but its success depends on improving essential services.",
+          "url": "https://www.techradar.com/ai-platforms-assistants/other-governments-will-be-watching-this-closely-south-korea-starts-testing-free-ai-for-the-public"
+        },
+        {
+          "headline": "Smartphone makers don't bother to comply with EU repairability requirements",
+          "summary": "Vast majority of new devices on market still don't give repair information to owners, but give themselves top marks for repairability",
+          "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532"
+        },
+        {
+          "headline": "Welsh environment regulator's FoI blunder exposes diversity data of 2,000 staff",
+          "summary": "NRW says it has found no evidence data was misused after spreadsheet published in error five years ago",
+          "url": "https://www.theregister.com/security/2026/09/07/welsh-environment-regulators-foi-blunder-exposes-diversity-data-of-2000-staff/5294748"
+        },
+        {
+          "headline": " AI and the ghosts of tech booms past ",
+          "summary": "What can past tech booms teach us about AI?",
+          "url": "https://www.techradar.com/pro/ai-and-the-ghosts-of-tech-booms-past"
+        },
+        {
+          "headline": "UK food supply chain at risk from hostile attacks ",
+          "summary": "Defending against cyber foes is among factors hitting food price inflation, report finds",
+          "url": "https://www.theregister.com/security/2026/09/07/uk-food-supply-chain-at-risk-from-hostile-attacks/5294719"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-08-24",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
