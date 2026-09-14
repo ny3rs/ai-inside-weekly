@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-09-14",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Michael Dell’s family office leads $7.7bn deal to take insurance broker private",
+          "summary": "DFO Management and Sequence clinch acquisition of Baldwin Group as industry undergoes wave of consolidation",
+          "url": "https://www.ft.com/content/5495d88b-b457-498a-bedd-64a954b538cd?syn-25a6b1a6=1"
+        },
+        {
+          "headline": "The politics of AI, part two",
+          "summary": "First it was data centres that concerned voters and lawmakers — now they’re worrying about the models themselves",
+          "url": "https://www.ft.com/content/296b56d1-a30e-43cf-ac15-8a42de5cd59a?syn-25a6b1a6=1"
+        },
+        {
+          "headline": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
+          "summary": "Redmond's quality drive takes another detour through the known issues list",
+          "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085"
+        },
+        {
+          "headline": "Steve Bannon and Bernie Sanders unite in AI safety call",
+          "summary": "Rightwing activist and leftwing senator join forces to demand stronger regulation of the technology",
+          "url": "https://www.ft.com/content/bab5c4c5-5377-4dd0-8b46-d8c4ce9a36d5?syn-25a6b1a6=1"
+        },
+        {
+          "headline": "Huawei pitches near-packaged optics as co-packaged costs bite",
+          "summary": "7.2 Tbps module arrives ahead of standards, with promises of fewer repair headaches",
+          "url": "https://www.theregister.com/networks/2026/09/14/huawei-pitches-near-packaged-optics-as-co-packaged-costs-bite/5296164"
+        },
+        {
+          "headline": " 'Dr. Frankenstein is telling us the monster is escaping': US lawmakers desperately want to set up AI guardrails before midterm elections ",
+          "summary": "Anthropic and OpenAI have warned about AI's potential risks, but while US politicians react, Trump worried about race with China.",
+          "url": "https://www.techradar.com/pro/dr-frankenstein-is-telling-us-the-monster-is-escaping-us-lawmakers-desperately-want-to-set-up-ai-guardrails-before-midterm-elections"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-09-07",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
