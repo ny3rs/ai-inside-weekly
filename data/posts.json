@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-09-21",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Clop gets a taste of its own medicine after ShinyHunters hijack leak site",
+          "summary": "Rival crew demands eight figures and threatens to expose companies that paid to keep quiet",
+          "url": "https://www.theregister.com/cyber-crime/2026/09/21/clop-gets-a-taste-of-its-own-medicine-after-shinyhunters-hijack-leak-site/5297702"
+        },
+        {
+          "headline": "NASA gives SpaceX a billion reasons to keep flying Crew Dragon",
+          "summary": "Crew-15 through Crew-17 shore up astronaut access to ISS while Starliner's future remains uncertain",
+          "url": "https://www.theregister.com/offbeat/2026/09/21/nasa-gives-spacex-a-billion-reasons-to-keep-flying-crew-dragon/5297705"
+        },
+        {
+          "headline": "Meta gives union access to recruit UK staff for first time",
+          "summary": "Greater worker representation expected in tech sector when new employment rights come into force next month",
+          "url": "https://www.ft.com/content/f9ddd64e-1656-4a15-a67a-f68087cefa79?syn-25a6b1a6=1"
+        },
+        {
+          "headline": "American datacenters might be getting dirtier, but at least they'll be efficient",
+          "summary": "US power emissions restrictions are being wiped out, but hey – datacenters running Nvidia kit are getting better at extracting ever bit of compute they can from a megawatt, for wha…",
+          "url": "https://www.theregister.com/systems/2026/09/21/american-datacenters-might-be-getting-dirtier-but-at-least-theyll-be-efficient/5297526"
+        },
+        {
+          "headline": " Trump wants to launch a new \"AI force\" - but I can't imagine Salesforce is particularly happy about the name ",
+          "summary": "Trump's idea comes days after Salesforce revealed its own \"AIforce\" platform at Dreamforce 2026.",
+          "url": "https://www.techradar.com/pro/trump-wants-to-launch-a-new-ai-force-but-i-cant-imagine-salesforce-is-particularly-happy-about-the-name"
+        },
+        {
+          "headline": " Work as you know it will be a relic of the past ",
+          "summary": "AI won’t replace knowledge workers overnight, but it will fundamentally change how they work.",
+          "url": "https://www.techradar.com/pro/work-as-you-know-it-will-be-a-relic-of-the-past"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-09-14",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
