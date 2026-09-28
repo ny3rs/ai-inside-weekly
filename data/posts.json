@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-09-28",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": " What happens when AI is confidently wrong in the workplace? ",
+          "summary": "As AI becomes embedded in the workplace, organizations must balance productivity with risk.",
+          "url": "https://www.techradar.com/pro/what-happens-when-ai-is-confidently-wrong-in-the-workplace"
+        },
+        {
+          "headline": "Europe's AI ambitions rest on somebody else's supply chain",
+          "summary": "EU firms capture less than 10% of the bloc's datacenter chips, server assembly, and cloud infrastructure markets",
+          "url": "https://www.theregister.com/systems/2026/09/28/europes-ai-ambitions-rest-on-somebody-elses-supply-chain/5299486"
+        },
+        {
+          "headline": " I gave Muse access to my personal data, and now I know why personal agents are probably going to change the world ",
+          "summary": "My first experience with Meta's AI agent was better than expected.",
+          "url": "https://www.techradar.com/ai-platforms-assistants/i-gave-muse-access-to-my-personal-data-and-now-i-know-why-personal-agents-are-probably-going-to-change-the-world"
+        },
+        {
+          "headline": " ChatGPT Voice's new plugins make voice more useful ",
+          "summary": "I tried ChatGPT Voice with plugins and found that connected apps make voice considerably more useful.",
+          "url": "https://www.techradar.com/ai-platforms-assistants/i-tried-chatgpt-voices-new-plugin-support-and-this-is-what-voice-assistants-have-been-missing"
+        },
+        {
+          "headline": " The Meta Muse AI agent just revealed a private address without permission ",
+          "summary": "The Meta Muse AI agent went off the rails, giving out a person’s address and ruining a Facebook Marketplace sale.",
+          "url": "https://www.techradar.com/ai-platforms-assistants/you-gotta-never-do-that-again-youtuber-says-metas-muse-ai-ruined-a-sale-and-gave-out-his-home-address-without-permission"
+        },
+        {
+          "headline": "OpenAI agents went the long way round for UN data",
+          "summary": "Research suggests ChatGPT maker's agents got surprisingly creative when a UN data API proved less than cooperative",
+          "url": "https://www.theregister.com/ai-and-ml/2026/09/28/openai-agents-went-the-long-way-round-for-un-data/5299452"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-09-21",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
