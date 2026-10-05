@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-10-05",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "The question you would ask HPE and NVIDIA if nobody was recording",
+          "summary": "The Register’s data sovereignty dinner in Washington puts HPE’s and NVIDIA’s AI infrastructure leads at one table, off the record, on 29 October.",
+          "url": "https://www.theregister.com/ai-and-ml/2026/10/05/sponsored-the-question-you-would-ask-hpe-and-nvidia-if-nobody-was-recording/5300427"
+        },
+        {
+          "headline": " Google benches open source bug bounty program following ‘significant rise’ in AI submissions ",
+          "summary": "Google says it will reassess in Q1 2027.",
+          "url": "https://www.techradar.com/pro/security/google-benches-open-source-bug-bounty-program-following-significant-rise-in-ai-submissions"
+        },
+        {
+          "headline": "Nvidia’s $20bn licensing deal with Groq faces lawsuit from jilted engineers",
+          "summary": "Employees of start-up say they were short-changed when the chip titan left them out of the ‘acqui-hire’ transaction",
+          "url": "https://www.ft.com/content/93ee425d-9ac7-4543-8cc9-fef2e0670787?syn-25a6b1a6=1"
+        },
+        {
+          "headline": "The dangerous myth behind AI agent hacks ",
+          "summary": "These are not simply cyber security flaws but problems with the way that models are trained",
+          "url": "https://www.ft.com/content/7afaf77b-b027-4a0f-8d53-5e88e7d6f5e4"
+        },
+        {
+          "headline": "Musk follows Trump's lead, swaps AI for SI in SpaceX rebrand",
+          "summary": "Actual intelligence in worryingly short supply",
+          "url": "https://www.theregister.com/offbeat/2026/10/05/musk-follows-trumps-lead-swaps-ai-for-si-in-spacex-rebrand/5301090"
+        },
+        {
+          "headline": "Games Workshop seeks IT leader to summon the legions in epic saga battling the forces of ERP ",
+          "summary": "Warhammer set in 40,000? Yes, ERP projects can take seem to take that long",
+          "url": "https://www.theregister.com/software/2026/10/05/games-workshop-seeks-it-leader-to-summon-the-legions-in-epic-saga-battling-the-forces-of-erp/5301117"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-09-28",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
