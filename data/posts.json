@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-10-12",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "AMD unveils Helion racks for AI agents at OCP summit",
+          "summary": "CPU-only and mixed CPU/GPU configurations due from partners in November",
+          "url": "https://www.theregister.com/systems/2026/10/12/amd-unveils-helion-racks-for-ai-agents-at-ocp-summit/5302652"
+        },
+        {
+          "headline": " An AI scammer tricked a woman into believing she was dating Jon Bon Jovi ",
+          "summary": "One in seven Americans have lost money to a romance scam. The new documentary Super Scam Me is switching the focus to the scammers, and away from the victims.",
+          "url": "https://www.techradar.com/ai-platforms-assistants/she-lost-a-lot-of-money-she-almost-lost-her-house-how-an-ai-scammer-tricked-one-woman-into-believing-she-was-dating-jon-bon-jovi-for-a-year"
+        },
+        {
+          "headline": "Which AI infrastructure option actually holds a boundary?",
+          "summary": "Just over two weeks before The Register’s Washington dinner with HPE and NVIDIA, the questions on the table are the ones that decide the architecture.",
+          "url": "https://www.theregister.com/ai-and-ml/2026/10/12/sponsored-which-ai-infrastructure-option-actually-holds-a-boundary/5300433"
+        },
+        {
+          "headline": "Windows 11's easiest account bypass gets the Microsoft boot",
+          "summary": "'Learn More' shortcut to local setup reportedly patched server-side, leaving users with more involved workarounds",
+          "url": "https://www.theregister.com/os-platforms/2026/10/12/windows-11s-easiest-account-bypass-gets-the-microsoft-boot/5302643"
+        },
+        {
+          "headline": "Ukrainian drone strikes on Yandex datacenters knock cloud and payments offline",
+          "summary": "Techies at 'Russia's Google' work around the clock as users await access to funds and network connectivity falls to 30% of normal",
+          "url": "https://www.theregister.com/security/2026/10/12/ukrainian-drone-strikes-on-yandex-datacenters-knock-cloud-and-payments-offline/5302577"
+        },
+        {
+          "headline": " Microsoft unveils Maia 300, its most powerful AI chip yet - and it might make using Teams, Copilot and Cowork much better at last ",
+          "summary": "Maia 300 is designed for the next generation of AI workloads, offering greater efficiency and power.",
+          "url": "https://www.techradar.com/pro/microsoft-unveils-maia-300-its-most-powerful-ai-chip-yet-and-it-might-make-using-teams-copilot-and-cowork-much-better-at-last"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-10-05",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
