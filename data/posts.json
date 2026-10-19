@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-10-19",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Uber defeats High Court lawsuit brought by London’s black-cab drivers",
+          "summary": "Judge rules claim against ride-hailing app was brought too late",
+          "url": "https://www.ft.com/content/22290706-ab59-4766-b604-ddff94a71bcf?syn-25a6b1a6=1"
+        },
+        {
+          "headline": " Anthropic says its workforce has been getting older, but is also spending more time in meetings ",
+          "summary": "Anthropic says its \"deep adoption of AI... makes it a useful case,\" and a company to watch as an \"early warning system\" for AI's impacts.",
+          "url": "https://www.techradar.com/pro/anthropic-says-its-workforce-has-been-getting-older-but-is-also-spending-more-time-in-meetings"
+        },
+        {
+          "headline": "Admin: 'I spent all weekend on my servers' after Microsoft breaks Exchange Server with October updates",
+          "summary": "OWA borked and lengthy email queues reported on busy servers after Microsoft tweaks a Server default",
+          "url": "https://www.theregister.com/software/2026/10/19/admin-i-spent-all-weekend-on-my-servers-after-microsoft-breaks-exchange-server-with-october-updates/5303724"
+        },
+        {
+          "headline": "Anthropic commits 5% of shares to ‘public benefit’ fund ",
+          "summary": "AI start-up has faced growing public backlash over safety and economic concerns",
+          "url": "https://www.ft.com/content/3beab58d-4269-4722-b299-8fa5a93f5a52?syn-25a6b1a6=1"
+        },
+        {
+          "headline": "Microsoft abandons UK AI supercomputer as grid struggles to keep up",
+          "summary": "Tech giant walks away from flagship Essex project as power connection delays threaten to leave nation's AI ambitions waiting until the 2030s",
+          "url": "https://www.theregister.com/on-prem/2026/10/19/microsoft-abandons-uk-ai-supercomputer-as-grid-struggles-to-keep-up/5303824"
+        },
+        {
+          "headline": "Is smart farming really smart business?",
+          "summary": "From eerie driverless tractors to precision spraying and sowing, AI is transforming America’s agricultural life",
+          "url": "https://www.ft.com/content/aeb432cd-5d95-4062-b7a8-f494592adb34"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-10-12",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
