@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-10-26",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "Anthropic begins countdown to IPO with prospectus filing",
+          "summary": "240,000-word prospectus lays out explosive growth alongside steep losses and risk factors",
+          "url": "https://www.ft.com/content/f6ecfecd-d797-4d2c-b427-d333297949cb?syn-25a6b1a6=1"
+        },
+        {
+          "headline": "Should farmers embrace AI?",
+          "summary": "Without safeguards, powerful new technology will widen the gap between those with access and those without",
+          "url": "https://www.ft.com/content/41acd923-d0ca-4441-9079-ec70f904caa9"
+        },
+        {
+          "headline": "We shouldn't be surprised about the PHPocalypse, as the internet is built on sticks and glue",
+          "summary": "What better way to celebrate Cybersecurity Awareness Month than warning that three-quarters of the web is about to be set on fire?",
+          "url": "https://www.theregister.com/security/2026/10/26/we-shouldnt-be-surprised-about-the-phpocalypse-as-the-internet-is-built-on-sticks-and-glue/5305186"
+        },
+        {
+          "headline": "Breaking down Anthropic’s 335-page S-1",
+          "summary": "Anthropic’s planned listing could be the biggest stock market debut in history",
+          "url": "https://www.ft.com/content/4b2b9c0e-adfb-4362-800f-950f5b905984?syn-25a6b1a6=1"
+        },
+        {
+          "headline": "UK Biobank back online soon, months after someone tried to sell 500k people's data on Alibaba",
+          "summary": "Charity confirms slew of security improvements as it waits for UK.gov's go-ahead",
+          "url": "https://www.theregister.com/security/2026/10/26/uk-biobank-back-online-soon-months-after-someone-tried-to-sell-500k-peoples-data-on-alibaba/5305363"
+        },
+        {
+          "headline": "Meta plans $95bn stock offering to bankroll AI expansion",
+          "summary": "Chipmakers Nvidia, AMD and Broadcom will act as cornerstone investors",
+          "url": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6=1"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-10-19",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
