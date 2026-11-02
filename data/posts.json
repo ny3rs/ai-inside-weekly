@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-11-02",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "AI build-out forecasts are increasingly reliant on Elon Musk telling the truth",
+          "summary": "Everything you always wanted to know about SpaceX (but were afraid to ask)",
+          "url": "https://www.ft.com/content/9cd0e738-2f1b-42cc-b1ca-d2c8675d7d34"
+        },
+        {
+          "headline": "Token thieves costing companies $100K+ per day in illicit LLM charges",
+          "summary": "Don't let the LLMjackers hit you",
+          "url": "https://www.theregister.com/security/2026/11/02/token-thieves-costing-companies-100k-per-day-in-illicit-llm-charges/5306967"
+        },
+        {
+          "headline": "SUSE to cut one in ten employees because of... AI",
+          "summary": "'Modern tooling is already changing our daily workflows' says CEO at open source biz",
+          "url": "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950"
+        },
+        {
+          "headline": "Germany warns politicians their iPhones may be hacked",
+          "summary": "Government says MPs and officials who received warnings from Apple should assume their phones have been compromised",
+          "url": "https://www.ft.com/content/77626f75-01e9-4123-8510-a095b2231861?syn-25a6b1a6=1"
+        },
+        {
+          "headline": " AI may be the future, but customer experience must meet the price-point ",
+          "summary": "To sell complex AI tech, brands must prioritize access to information and expertise over marketing hype.",
+          "url": "https://www.techradar.com/pro/ai-may-be-the-future-but-customer-experience-must-meet-the-price-point"
+        },
+        {
+          "headline": "What caused the $6.3bn Binance hack? ",
+          "summary": "Blockchains are not the problem; it is the ecosystem around them that has introduced technological vulnerabilities",
+          "url": "https://www.ft.com/content/aee842a2-2949-4746-8742-03c0397f0391"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-10-26",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
