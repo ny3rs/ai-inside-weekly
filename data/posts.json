@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-11-09",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": "US stocks rebound after AI rout",
+          "summary": "Lower oil prices help equity indices shrug off fall in Nvidia shares",
+          "url": "https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1"
+        },
+        {
+          "headline": "NASA keeps its PROMISE to raid Mars testbeds for parts",
+          "summary": "Cut-and-shut trundlebot with spiffy new paint job meant to be headed to the Moon in 2028",
+          "url": "https://www.theregister.com/science/2026/11/09/nasa-keeps-its-promise-to-raid-mars-testbeds-for-parts/5308475"
+        },
+        {
+          "headline": "Nvidia shares fall as it probes alleged Chinese spy scandal",
+          "summary": "Board of chipmaker opens investigation after chief executive Jensen Huang admits to affair",
+          "url": "https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654?syn-25a6b1a6=1"
+        },
+        {
+          "headline": "Alleged Chinese spy linked to Nvidia chief pitched AI chip deals to investors",
+          "summary": "Alice Huang boasted of having access to Nvidia GPUs and her connection to Alibaba",
+          "url": "https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1"
+        },
+        {
+          "headline": " Microsoft plans two big Windows 11 interface changes — and one is divisive ",
+          "summary": "New Copilot integration for the taskbar's search box gets the thumbs-up from some, but others don't trust Microsoft's motives here.",
+          "url": "https://www.techradar.com/computing/windows/microsoft-plans-two-big-interface-changes-for-windows-11-one-sounds-useful-but-the-other-involving-ai-is-seriously-divisive"
+        },
+        {
+          "headline": " 1 in 8 Brits have used AI to write their Christmas cards ",
+          "summary": "A new survey shows that 1 in 8 of Brits use AI tools to help them write sentimental messages in their Christmas cards.",
+          "url": "https://www.techradar.com/ai-platforms-assistants/1-in-8-brits-have-used-ai-to-write-their-christmas-cards-but-are-we-losing-something-by-letting-chatgpt-do-the-talking"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-11-02",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
