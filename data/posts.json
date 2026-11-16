@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "date": "2026-11-16",
+      "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
+      "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
+      "items": [
+        {
+          "headline": " Aircall's Black Friday deal includes unlimited AI voice minutes ",
+          "summary": "Aircall's unlimited AI Voice Agent minutes promotion could help retailers avoid long call queues during the holiday rush.",
+          "url": "https://www.techradar.com/pro/aircall-offers-unlimited-ai-voice-agent-minutes-during-its-black-friday-promotion-with-multilingual-support-and-live-business-data"
+        },
+        {
+          "headline": "Trump says he ‘wouldn’t mind’ seeing Jensen Huang reinstated as Nvidia chief",
+          "summary": "US president’s intervention comes days after co-founder of chipmaker resigned following extramarital affair with executive at Singapore-based customer",
+          "url": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1"
+        },
+        {
+          "headline": "US allies deepen deal to guard AI supply chains against 'hostile actors' (cough, China, cough)",
+          "summary": "Securing supply chains or coercing other nations to help Washington sideline Beijing and its AI ambitions?",
+          "url": "https://www.theregister.com/systems/2026/11/16/us-allies-deepen-deal-to-guard-ai-supply-chains-against-hostile-actors-cough-china-cough/5310094"
+        },
+        {
+          "headline": "Criminals attack French postal operator subsidiary, grab contact details of 22M people",
+          "summary": "France's data protection authority is looking into the intrusion after the postal service reported itself",
+          "url": "https://www.theregister.com/cyber-crime/2026/11/16/criminals-attack-french-postal-operator-subsidiary-grab-contact-details-of-22m-people/5310070"
+        },
+        {
+          "headline": "What the west gets wrong about AI safety in China ",
+          "summary": "Information censorship plays a central role but state security is not the only priority",
+          "url": "https://www.ft.com/content/6ff2e9ce-fade-4f0f-8591-08b765eea589"
+        },
+        {
+          "headline": " Making a typo when trying to access AI could land you on a malware site ",
+          "summary": "Popular AI brands abused in a new typosquatting campaign, researchers warn.",
+          "url": "https://www.techradar.com/pro/security/making-a-typo-when-trying-to-access-ai-could-land-you-on-a-malware-site"
+        }
+      ],
+      "metrics": [
+        "Track org-level KPIs: time-to-resolution (IT), content cycle time, policy exceptions, % tasks automated.",
+        "Adoption metric: % of target roles using approved AI tools weekly (active users / eligible users).",
+        "Risk metric: # of shadow-AI incidents per week and mean time to containment."
+      ],
+      "takeaway": "Focus on 2–3 processes where AI can remove toil quickly. Pair enablement with clear guardrails to convert usage into impact."
+    },
+    {
       "date": "2026-11-09",
       "subject": "Weekly: AI Inside Organizations — Headlines & Signals",
       "intro": "A concise weekly on how companies use AI behind the scenes: governance, workflows, and measurable value.",
